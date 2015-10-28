@@ -1,0 +1,285 @@
+# depslib dependency file v1.0
+1431672519 source:/root/Documents/Code/Stretgy/main.cpp
+	"AutoClientFoFo.h"
+
+1431684147 /root/Documents/Code/Stretgy/AutoClientFoFo.h
+	<vector>
+	<stdio.h>
+	<string.h>
+	<vector>
+	<map>
+	<arpa/inet.h>
+	"Struct.h"
+	<fstream>
+	<assert.h>
+	<nanomsg/nn.h>
+	<nanomsg/pubsub.h>
+	<iostream>
+	<unistd.h>
+	<pthread.h>
+	<cstdlib>
+	<stdio.h>
+
+1431681759 /root/Documents/Code/Stretgy/Struct.h
+	<string>
+
+1431680158 /root/Documents/Code/Stretgy/Struct2.h
+
+1432373047 source:/root/Documents/Code/NNFServer/NNFServer/main.cpp
+	"AutoClientFoFo.h"
+
+1432982796 /root/Documents/Code/NNFServer/NNFServer/AutoClientFoFo.h
+	<vector>
+	<stdio.h>
+	<string.h>
+	<vector>
+	<map>
+	<arpa/inet.h>
+	"Struct.h"
+	<fstream>
+	<assert.h>
+	<nanomsg/nn.h>
+	<nanomsg/pubsub.h>
+	<iostream>
+	<unistd.h>
+	<pthread.h>
+	<cstdlib>
+	<stdio.h>
+
+1432286956 /root/Documents/Code/NNFServer/NNFServer/Struct.h
+	<string>
+
+1433086124 source:/home/shailendra/Documents/30_may_2015-backup/NNFServer/NNFServer/main.cpp
+	<map>
+	"AutoClientFoFo.h"
+
+1433085931 /home/shailendra/Documents/30_may_2015-backup/NNFServer/NNFServer/AutoClientFoFo.h
+	<vector>
+	<stdio.h>
+	<string.h>
+	<vector>
+	<map>
+	<arpa/inet.h>
+	"Struct.h"
+	<fstream>
+	<assert.h>
+	<nanomsg/nn.h>
+	<nanomsg/pubsub.h>
+	<iostream>
+	<unistd.h>
+	<pthread.h>
+	<cstdlib>
+	<stdio.h>
+
+1432286956 /home/shailendra/Documents/30_may_2015-backup/NNFServer/NNFServer/Struct.h
+	<string>
+
+1433135268 source:/root/Documents/Shailendra/30_may_2015-Updated/NNFServer/NNFServer/main.cpp
+	<map>
+	"AutoClientFoFo.h"
+
+1433234744 /root/Documents/Shailendra/30_may_2015-Updated/NNFServer/NNFServer/AutoClientFoFo.h
+	<vector>
+	<stdio.h>
+	<string.h>
+	<vector>
+	<map>
+	<arpa/inet.h>
+	"Struct.h"
+	<fstream>
+	<assert.h>
+	<nanomsg/nn.h>
+	<nanomsg/pubsub.h>
+	<iostream>
+	<unistd.h>
+	<pthread.h>
+	<cstdlib>
+	<stdio.h>
+
+1432286956 /root/Documents/Shailendra/30_may_2015-Updated/NNFServer/NNFServer/Struct.h
+	<string>
+
+1433135268 source:/root/Documents/Shailendra/Final Working Applications Nitin/NNFServer/NNFServer/main.cpp
+	<map>
+	"AutoClientFoFo.h"
+
+1433480709 /root/Documents/Shailendra/Final Working Applications Nitin/NNFServer/NNFServer/AutoClientFoFo.h
+	<vector>
+	<stdio.h>
+	<string.h>
+	<vector>
+	<map>
+	<arpa/inet.h>
+	"Struct.h"
+	<fstream>
+	<assert.h>
+	<nanomsg/nn.h>
+	<nanomsg/pubsub.h>
+	<iostream>
+	<unistd.h>
+	<pthread.h>
+	<cstdlib>
+	<stdio.h>
+
+1432286956 /root/Documents/Shailendra/Final Working Applications Nitin/NNFServer/NNFServer/Struct.h
+	<string>
+
+1433135268 source:/root/Documents/Shailendra/Nitin/Final Working Applications Nitin/NNFServer/NNFServer/main.cpp
+	<map>
+	"AutoClientFoFo.h"
+
+1434544293 /root/Documents/Shailendra/Nitin/Final Working Applications Nitin/NNFServer/NNFServer/AutoClientFoFo.h
+	<vector>
+	<stdio.h>
+	<string.h>
+	<vector>
+	<map>
+	<arpa/inet.h>
+	"Struct.h"
+	<fstream>
+	<assert.h>
+	<nanomsg/nn.h>
+	<nanomsg/pubsub.h>
+	<iostream>
+	<unistd.h>
+	<pthread.h>
+	<cstdlib>
+	<stdio.h>
+
+1434521758 /root/Documents/Shailendra/Nitin/Final Working Applications Nitin/NNFServer/NNFServer/Struct.h
+	<string>
+
+1434643112 source:/home/shailendra/Documents/Nitin/17062015/NNFServer-At-NitinHome/NNFServer/main.cpp
+	<map>
+	"AutoClientFoFo.h"
+
+1434656225 /home/shailendra/Documents/Nitin/17062015/NNFServer-At-NitinHome/NNFServer/AutoClientFoFo.h
+	<vector>
+	<string.h>
+	<map>
+	<arpa/inet.h>
+	"Struct.h"
+	<fstream>
+	<nanomsg/nn.h>
+	<nanomsg/pubsub.h>
+	<iostream>
+	<stdlib.h>
+	<boost/thread/thread.hpp>
+	<boost/bind.hpp>
+	<boost/property_tree/ptree.hpp>
+	<boost/property_tree/ini_parser.hpp>
+
+1434521758 /home/shailendra/Documents/Nitin/17062015/NNFServer-At-NitinHome/NNFServer/Struct.h
+	<string>
+
+1433854977 /home/shailendra/Documents/Nitin/17062015/NNFServer-At-NitinHome/NNFServer/INICPP/INIReader.h
+	<map>
+	<string>
+
+1429234179 source:/home/shailendra/Documents/Nitin/17062015/NNFServer-At-NitinHome/NNFServer/INICPP/ini.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"ini.h"
+	<stdlib.h>
+
+1429234179 /home/shailendra/Documents/Nitin/17062015/NNFServer-At-NitinHome/NNFServer/INICPP/ini.h
+	<stdio.h>
+
+1433855011 source:/home/shailendra/Documents/Nitin/17062015/NNFServer-At-NitinHome/NNFServer/INICPP/INIReader.cpp
+	<algorithm>
+	<cctype>
+	<cstdlib>
+	"ini.h"
+	"INIReader.h"
+
+1433854271 source:/home/shailendra/Documents/Nitin/17062015/NNFServer-At-NitinHome/NNFServer/INICPP/INIReaderTest.cpp
+	<iostream>
+	"INIReader.h"
+
+1429234179 source:/home/shailendra/Documents/Nitin/17062015/NNFServer-At-NitinHome/NNFServer/INICPP/ini.cpp
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"ini.h"
+	<stdlib.h>
+
+1435237933 source:/root/Documents/Shailendra/20150624/STG + DATA + Server/STG/main.cpp
+	<map>
+	"AutoClientFoFo.h"
+
+1435587578 /root/Documents/Shailendra/20150624/STG + DATA + Server/STG/AutoClientFoFo.h
+	<vector>
+	<string.h>
+	<map>
+	<arpa/inet.h>
+	"Struct.h"
+	<fstream>
+	<nanomsg/nn.h>
+	<nanomsg/pubsub.h>
+	<iostream>
+	<stdlib.h>
+	<boost/thread/thread.hpp>
+	<boost/bind.hpp>
+	<boost/property_tree/ptree.hpp>
+	<boost/property_tree/ini_parser.hpp>
+
+1435208690 /root/Documents/Shailendra/20150624/STG + DATA + Server/STG/Struct.h
+	<string>
+
+1435237933 source:/home/shailendra/Documents/Nitin/20150703/STG/main.cpp
+	<map>
+	"AutoClientFoFo.h"
+
+1435916665 /home/shailendra/Documents/Nitin/20150703/STG/AutoClientFoFo.h
+	<vector>
+	<string.h>
+	<map>
+	<arpa/inet.h>
+	"Struct.h"
+	<fstream>
+	<nanomsg/nn.h>
+	<nanomsg/pubsub.h>
+	<iostream>
+	<stdlib.h>
+	<boost/thread/thread.hpp>
+	<boost/bind.hpp>
+	<boost/property_tree/ptree.hpp>
+	<boost/property_tree/ini_parser.hpp>
+	<boost/multi_index_container.hpp>
+	<boost/multi_index/member.hpp>
+	<boost/multi_index/ordered_index.hpp>
+
+1435208690 /home/shailendra/Documents/Nitin/20150703/STG/Struct.h
+	<string>
+
+1438791939 source:/root/Documents/Shailendra/STG-Nitin/main.cpp
+	<map>
+	"AutoClientFoFo.h"
+
+1440134761 /root/Documents/Shailendra/STG-Nitin/AutoClientFoFo.h
+	<vector>
+	<string.h>
+	<map>
+	<arpa/inet.h>
+	"Struct.h"
+	<fstream>
+	<nanomsg/nn.h>
+	<nanomsg/pubsub.h>
+	<iostream>
+	<stdlib.h>
+	<boost/thread/thread.hpp>
+	<boost/bind.hpp>
+	<boost/property_tree/ptree.hpp>
+	<boost/property_tree/ini_parser.hpp>
+	<mutex>
+	<boost/multi_index_container.hpp>
+	<boost/multi_index/member.hpp>
+	<boost/multi_index/ordered_index.hpp>
+	<boost/multi_index/hashed_index.hpp>
+	<boost/multi_index/tag.hpp>
+	<boost/multi_index/mem_fun.hpp>
+
+1440132268 /root/Documents/Shailendra/STG-Nitin/Struct.h
+	<string>
+
