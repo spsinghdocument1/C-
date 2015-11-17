@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Child_Index>
+    <Symbol>CNX Nifty</Symbol>
+    <Price>8052.85</Price>
+    <Indicator>153.70</Indicator>
+    <_x0025_Change>1.95</_x0025_Change>
+    <ClosePrice>7899.15</ClosePrice>
+  </Child_Index>
+  <Child_Index>
+    <Symbol>CNX 500</Symbol>
+    <Price>6693.8</Price>
+    <Indicator>122.2</Indicator>
+    <_x0025_Change>1.86</_x0025_Change>
+    <ClosePrice>6571.6</ClosePrice>
+  </Child_Index>
+  <Child_Index>
+    <Symbol>CNX Midcap</Symbol>
+    <Price>12887.6</Price>
+    <Indicator>192.6</Indicator>
+    <_x0025_Change>1.52</_x0025_Change>
+    <ClosePrice>12695</ClosePrice>
+  </Child_Index>
+</DocumentElement>

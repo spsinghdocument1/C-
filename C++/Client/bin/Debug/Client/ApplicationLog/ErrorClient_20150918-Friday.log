@@ -1,0 +1,342 @@
+
+
+12:08:35:974 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.40642304556799E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:10:38:155 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.40642304556799E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:10:50:905 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.4723255681729E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:10:51:248 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.4723255681729E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:12:37:891 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.4723255681729E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:12:38:004 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.4723255681729E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:12:50:948 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.40564553539342E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:12:51:146 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.40564553539342E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:14:37:333 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.40564553539342E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:14:37:491 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.40564553539342E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:14:50:405 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.33896550261393E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:14:50:538 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.33896550261393E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:16:37:252 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.33896550261393E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:16:50:492 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.27274587179379E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:16:50:607 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.27274587179379E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:18:52:373 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.27274587179379E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:19:05:227 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.33974019793899E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:19:05:393 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.33974019793899E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:19:10:588 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.33974019793899E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:19:10:793 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.33974019793899E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:20:52:321 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.33974019793899E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:21:05:239 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.2728320330445E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:21:05:378 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.2728320330445E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:21:52:361 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.2728320330445E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:21:52:559 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.2728320330445E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:22:52:280 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.2728320330445E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:23:05:257 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.47263704668909E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:23:05:470 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.47263704668909E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:24:52:234 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.47263704668909E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:24:52:347 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.47263704668909E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:25:05:310 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.27233564974901E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:25:05:493 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.27233564974901E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:25:13:573 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.27233564974901E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+12:25:13:722 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <4.27233564974901E+96> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190

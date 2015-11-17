@@ -1,0 +1,2421 @@
+ Contract loaded successfully 100001
+
+ Contract loaded successfully 100001
+
+ ClientHandler started
+
+ Thread 1 Started 
+ Thread 1 Started inside 
+ Thread 2 Started 
+22
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+Login Packet Sent
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+SystemInfo Packet Sent
+
+ %%%%%%%% bytesReceived= 238 tCode= 2301 %%%%%%
+
+
+
+2301  Received
+
+Error Code= 0
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 130 tCode= 1601 %%%%%%
+
+
+
+1601  Received Login Method raised from event 
+
+ ============================== 
+
+ StgType	1
+
+ ============================== 
+
+Creating Strategy Instance for CleintID 2010100017
+ Contract loaded successfully 165537
+
+ SECTION 
+
+ Contract loaded successfully 100001
+
+Datasubscriber Start: tcp://192.168.1.8:7070  ClientIdAuto: Thread Started for Datasubscriber
+2010100017
+Thread Started for Eventsubscriber
+Eventsubscriber Start: inproc://eventpubsub  ClientIdAuto: 2010100017
+Packet sent
+Event recieved for running stg 2010100017
+PFNumber 1 Token Far 43329 Token Near 57066
+
+ _StgClass 0
+
+ New class PairSubs %%%%%%%%%%%%%%%%%%%%%%% 
+
+PFNumber 1 New class OnSub PF 1 Far 43329 Near 57066
+
+ Contract loaded successfully 100001
+
+ cimlist[Token].InstrumentName FUTIDXNIFTY cimlist[Token].Symbol NIFTY  cimlist[Token].OptionType XXK
+
+
+In msOerequesttr PktLen= 134  tcode= 20000
+ Contract loaded successfully 100001
+
+ cimlist[Token].InstrumentName FUTIDXNIFTY cimlist[Token].Symbol NIFTY  cimlist[Token].OptionType XXK
+
+
+In msOerequesttr PktLen= 134  tcode= 20000
+ Contract loaded successfully 100001
+
+ cimlist[Token].InstrumentName FUTIDXNIFTY cimlist[Token].Symbol NIFTY  cimlist[Token].OptionType XXK
+
+
+In msOerequesttr PktLen= 134  tcode= 20000
+ Contract loaded successfully 100001
+
+ cimlist[Token].InstrumentName FUTIDXNIFTY cimlist[Token].Symbol NIFTY  cimlist[Token].OptionType XXK
+
+
+In msOerequesttr PktLen= 134  tcode= 20000
+
+1 Length= 134 tcode 20000
+
+2 Length= 134 tcode 20000
+Symbol 43329 subscribed successfully 
+Symbol 57066 subscribed successfully 
+Portfolio 1 subscribed successfully Key 6520101000171
+Packet sent
+PFNumber 1 dAsksDifference 4260 dBidsDifference 4165 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4260 dBidsDifference 4165 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 1 dAsksDifference 4260 dBidsDifference 4165 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4260 dBidsDifference 4165 BuyFarStatus 0 BuyTradeCounter 0
+
+Event recieved for running stg 2010100017
+ New class OnDiff PF 1 BNSFDIFF 4400 BFSN 4200
+
+Packet sent
+PFNumber 1 dAsksDifference 4265 dBidsDifference 4160 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4265 dBidsDifference 4160 BuyFarStatus 0 BuyTradeCounter 0
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 1 HashKey while creating holder &&&&&&&&&&&&&&&&&&&&&&796711 Count 0
+
+ Data inserted No key found 
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 2 HashKey after creating holder &&&&&&&&&&&&&&&&&&&&&&796711 Count 1
+
+PFNumber 1 New Buy Order sent from STG  Symbol NIFTY      Instrument Name FUTIDXNIFTY     
+ QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ PFnumber 1 buy bid @ 819500 Token 43329 Side 1 Qty 75 Price 819500 Hashkey 796711 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+ Buy Order found
+
+ 
+ ****** SendToExchange 136 Length= 134 tcode 20000 UserId= 28823 pkt.SeqNo 3 Side 1 ***** 
+
+
+ 
+ ****** Sent = 134 tcode 20000 UserId= 28823 pkt.SeqNo 3 Side 1 ***** 
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20073 %%%%%%
+
+Token 43329 Price 819500 Qty 75 Side 1 OrderNumber 2.69255e-312
+
+ HashKey from GetRecord 796711
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 1 HashKey while creating holder &&&&&&&&&&&&&&&&&&&&&&3 Count 0
+
+ Data inserted with OrderNo 
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 2 HashKey after creating holder &&&&&&&&&&&&&&&&&&&&&&3 Count 0
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20073 ))))))))))))))))))
+
+ORDER_CONFIRMATION_TR  : 7  Mod Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4265 dBidsDifference 4220 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4265 dBidsDifference 4220 BuyFarStatus 3 BuyTradeCounter 0
+
+ Cancel Buy Order sent from STG 
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQq Cancelled Buy PF 1 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQq
+
+ Buy Order found
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20070 UserId= 28823 pkt.SeqNo 3 Side 1 ***
+
+
+
+ ****Sent = 164 tcode 20070 UserId= 28823 pkt.SeqNo 4 Side 1 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20075 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20075 ))))))))))))))))))
+
+ Cancel Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4245 dBidsDifference 4170 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4245 dBidsDifference 4170 BuyFarStatus 4 BuyTradeCounter 0
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 1 HashKey while creating holder &&&&&&&&&&&&&&&&&&&&&&797169 Count 0
+
+ Data inserted No key found 
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 2 HashKey after creating holder &&&&&&&&&&&&&&&&&&&&&&797169 Count 1
+
+PFNumber 1 New Buy Order sent from STG  Symbol NIFTY      Instrument Name FUTIDXNIFTY     
+ QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ PFnumber 1 buy bid @ 819450 Buy Order found Token 43329
+ Side 
+ 
+ ****** SendToExchange 136 Length= 134 tcode 20000 UserId= 128823 pkt.SeqNo 5 Side 1 ***** 
+
+ Qty 75 Price 819450 Hashkey 797169 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+
+ 
+ ****** Sent = 134 tcode 20000 UserId= 28823 pkt.SeqNo 5 Side 1 ***** 
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20073 %%%%%%
+
+Token 43329 Price 819450 Qty 75 Side 1 OrderNumber 4.43985e-313
+
+ HashKey from GetRecord 797169
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 1 HashKey while creating holder &&&&&&&&&&&&&&&&&&&&&&5 Count 0
+
+ Data inserted with OrderNo 
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 2 HashKey after creating holder &&&&&&&&&&&&&&&&&&&&&&5 Count 0
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20073 ))))))))))))))))))
+
+ORDER_CONFIRMATION_TR  : 7  Mod Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4245 dBidsDifference 4170 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4245 dBidsDifference 4170 BuyFarStatus 3 BuyTradeCounter 0
+
+ Mod Buy Order sent from STG 
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ Modified Buy PF 1 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+ Buy Order found
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo 5 Side 1 ***
+
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 6 Side 1 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4255 dBidsDifference 4200 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4255 dBidsDifference 4200 BuyFarStatus 2 BuyTradeCounter 0
+
+ Mod Buy Order sent from STG 
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ Modified Buy PF 1 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+ Buy Order found
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo 6 Side 1 ***
+
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 7 Side 1 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4255 dBidsDifference 4200 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4255 dBidsDifference 4200 BuyFarStatus 2 BuyTradeCounter 0
+
+ Mod Buy Order sent from STG 
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ Modified Buy PF 1 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+ Buy Order found
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo 7 Side 1 ***
+
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 8 Side 1 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4260 dBidsDifference 4225 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4260 dBidsDifference 4225 BuyFarStatus 2 BuyTradeCounter 0
+
+ Cancel Buy Order sent from STG 
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQq Cancelled Buy PF 1 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQq
+
+ Buy Order found
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20070 UserId= 28823 pkt.SeqNo 8 Side 1 ***
+
+
+
+ ****Sent = 164 tcode 20070 UserId= 28823 pkt.SeqNo 9 Side 1 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20075 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20075 ))))))))))))))))))
+
+ Cancel Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4260 dBidsDifference 4225 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4260 dBidsDifference 4225 BuyFarStatus 4 BuyTradeCounter 0
+
+PFNumber 1 dAsksDifference 4260 dBidsDifference 4250 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4260 dBidsDifference 4250 BuyFarStatus 4 BuyTradeCounter 0
+
+PFNumber 1 dAsksDifference 4260 dBidsDifference 4250 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4260 dBidsDifference 4250 BuyFarStatus 4 BuyTradeCounter 0
+
+PFNumber 1 dAsksDifference 4210 dBidsDifference 4200 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4210 dBidsDifference 4200 BuyFarStatus 4 BuyTradeCounter 0
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 1 HashKey while creating holder &&&&&&&&&&&&&&&&&&&&&&797143 Count 0
+
+ Data inserted No key found 
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 2 HashKey after creating holder &&&&&&&&&&&&&&&&&&&&&&797143 Count 1
+
+PFNumber 1 New Buy Order sent from STG  Symbol NIFTY      Instrument Name FUTIDXNIFTY     
+ QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ PFnumber 1 buy bid @  Buy Order found819420
+
+ 
+ ****** SendToExchange 136 Length= 134 tcode 20000 UserId=  Token 28823 pkt.SeqNo 10 Side 433291 ***** 
+
+ Side 1 Qty 75 Price 819420 Hashkey 797143 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+
+ 
+ ****** Sent = 134 tcode 20000 UserId= 28823 pkt.SeqNo 10 Side 1 ***** 
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20073 %%%%%%
+
+Token 43329 Price 819420 Qty 75 Side 1 OrderNumber 5.7263e-313
+
+ HashKey from GetRecord 797143
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 1 HashKey while creating holder &&&&&&&&&&&&&&&&&&&&&&10 Count 0
+
+ Data inserted with OrderNo 
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 2 HashKey after creating holder &&&&&&&&&&&&&&&&&&&&&&10 Count 0
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20073 ))))))))))))))))))
+
+ORDER_CONFIRMATION_TR  : 7  Mod Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4210 dBidsDifference 4200 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4210 dBidsDifference 4200 BuyFarStatus 3 BuyTradeCounter 0
+
+ Mod Buy Order sent from STG 
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ Modified Buy PF 1 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+ Buy Order found
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo 10 Side 1 ***
+
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 11 Side 1 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4210 dBidsDifference 4210 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4210 dBidsDifference 4210 BuyFarStatus 2 BuyTradeCounter 0
+
+ Cancel Buy Order sent from STG 
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQq Cancelled Buy PF 1 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQq
+
+ Buy Order found
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20070 UserId= 28823 pkt.SeqNo 11 Side 1 ***
+
+
+
+ ****Sent = 164 tcode 20070 UserId= 28823 pkt.SeqNo 12 Side 1 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20075 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20075 ))))))))))))))))))
+
+ Cancel Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4210 dBidsDifference 4210 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4210 dBidsDifference 4210 BuyFarStatus 4 BuyTradeCounter 0
+
+PFNumber 1 dAsksDifference 4260 dBidsDifference 4230 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4260 dBidsDifference 4230 BuyFarStatus 4 BuyTradeCounter 0
+
+PFNumber 1 dAsksDifference 4260 dBidsDifference 4230 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4260 dBidsDifference 4230 BuyFarStatus 4 BuyTradeCounter 0
+
+PFNumber 1 dAsksDifference 4250 dBidsDifference 4205 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4250 dBidsDifference 4205 BuyFarStatus 4 BuyTradeCounter 0
+
+PFNumber 1 dAsksDifference 4250 dBidsDifference 4205 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4250 dBidsDifference 4205 BuyFarStatus 4 BuyTradeCounter 0
+
+PFNumber 1 dAsksDifference 4250 dBidsDifference 4190 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4250 dBidsDifference 4190 BuyFarStatus 4 BuyTradeCounter 0
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 1 HashKey while creating holder &&&&&&&&&&&&&&&&&&&&&&797165 Count 0
+
+ Data inserted No key found 
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 2 HashKey after creating holder &&&&&&&&&&&&&&&&&&&&&&797165 Count 1
+
+PFNumber 1 New Buy Order sent from STG  Symbol NIFTY      Instrument Name FUTIDXNIFTY     
+ QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ PFnumber 1 buy bid @ 819430 Token 43329 Side 1 Qty 75 Price 819430 Hashkey  Buy Order found797165
+
+ 
+ ****** SendToExchange 136 Length= 134 tcode 20000 UserId= 28823 pkt.SeqNo 13 Side 1 ***** 
+
+ QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+
+ 
+ ****** Sent = 134 tcode 20000 UserId= 28823 pkt.SeqNo 13 Side 1 ***** 
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20073 %%%%%%
+
+Token 43329 Price 819430 Qty 75 Side 1 OrderNumber 2.54758e-312
+
+ HashKey from GetRecord 797165
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 1 HashKey while creating holder &&&&&&&&&&&&&&&&&&&&&&13 Count 0
+
+ Data inserted with OrderNo 
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 2 HashKey after creating holder &&&&&&&&&&&&&&&&&&&&&&13 Count 0
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20073 ))))))))))))))))))
+
+ORDER_CONFIRMATION_TR  : 7  Mod Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4250 dBidsDifference 4190 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4250 dBidsDifference 4190 BuyFarStatus 3 BuyTradeCounter 0
+
+ Mod Buy Order sent from STG 
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ Modified Buy PF 1 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+ Buy Order found
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo 13 Side 1 ***
+
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 14 Side 1 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4285 dBidsDifference 4215 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4285 dBidsDifference 4215 BuyFarStatus 2 BuyTradeCounter 0
+
+ Cancel Buy Order sent from STG 
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQq Cancelled Buy PF 1 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQq
+
+ Buy Order found
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20070 UserId= 28823 pkt.SeqNo 14 Side 1 ***
+
+
+
+ ****Sent = 164 tcode 20070 UserId= 28823 pkt.SeqNo 15 Side 1 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20075 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20075 ))))))))))))))))))
+
+ Cancel Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4285 dBidsDifference 4215 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4285 dBidsDifference 4215 BuyFarStatus 4 BuyTradeCounter 0
+
+PFNumber 1 dAsksDifference 4235 dBidsDifference 4240 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4235 dBidsDifference 4240 BuyFarStatus 4 BuyTradeCounter 0
+
+PFNumber 1 dAsksDifference 4170 dBidsDifference 4245 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4170 dBidsDifference 4245 BuyFarStatus 4 BuyTradeCounter 0
+
+PFNumber 1 dAsksDifference 4170 dBidsDifference 4245 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4170 dBidsDifference 4245 BuyFarStatus 4 BuyTradeCounter 0
+
+PFNumber 1 dAsksDifference 4165 dBidsDifference 4245 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4165 dBidsDifference 4245 BuyFarStatus 4 BuyTradeCounter 0
+
+PFNumber 1 dAsksDifference 4165 dBidsDifference 4245 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4165 dBidsDifference 4245 BuyFarStatus 4 BuyTradeCounter 0
+
+PFNumber 1 dAsksDifference 4180 dBidsDifference 4245 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4180 dBidsDifference 4245 BuyFarStatus 4 BuyTradeCounter 0
+
+PFNumber 1 dAsksDifference 4180 dBidsDifference 4245 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4180 dBidsDifference 4245 BuyFarStatus 4 BuyTradeCounter 0
+
+PFNumber 1 dAsksDifference 4180 dBidsDifference 4245 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4180 dBidsDifference 4245 BuyFarStatus 4 BuyTradeCounter 0
+
+PFNumber 1 dAsksDifference 4180 dBidsDifference 4245 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4180 dBidsDifference 4245 BuyFarStatus 4 BuyTradeCounter 0
+
+PFNumber 1 dAsksDifference 4185 dBidsDifference 4245 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4185 dBidsDifference 4245 BuyFarStatus 4 BuyTradeCounter 0
+
+PFNumber 1 dAsksDifference 4185 dBidsDifference 4245 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4185 dBidsDifference 4245 BuyFarStatus 4 BuyTradeCounter 0
+
+PFNumber 1 dAsksDifference 4180 dBidsDifference 4195 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4180 dBidsDifference 4195 BuyFarStatus 4 BuyTradeCounter 0
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 1 HashKey while creating holder &&&&&&&&&&&&&&&&&&&&&&797126 Count 0
+
+ Data inserted No key found 
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 2 HashKey after creating holder &&&&&&&&&&&&&&&&&&&&&&797126 Count 1
+
+PFNumber 1 New Buy Order sent from STG  Symbol NIFTY      Instrument Name FUTIDXNIFTY     
+ Buy Order found QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ PFnumber 
+1 buy bid @ 
+ 
+ ****** SendToExchange 136 Length= 134 tcode 20000 UserId= 28823 pkt.SeqNo 81940516 Side 1 ***** 
+
+ Token 43329 Side 1 Qty 75 Price 819405 Hashkey 797126 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+
+ 
+ ****** Sent = 134 tcode 20000 UserId= 28823 pkt.SeqNo 16 Side 1 ***** 
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20073 %%%%%%
+
+Token 43329 Price 819405 Qty 75 Side 1 OrderNumber 8.90479e-314
+
+ HashKey from GetRecord 797126
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 1 HashKey while creating holder &&&&&&&&&&&&&&&&&&&&&&16 Count 0
+
+ Data inserted with OrderNo 
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 2 HashKey after creating holder &&&&&&&&&&&&&&&&&&&&&&16 Count 0
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20073 ))))))))))))))))))
+
+ORDER_CONFIRMATION_TR  : 7  Mod Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4185 dBidsDifference 4195 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4185 dBidsDifference 4195 BuyFarStatus 3 BuyTradeCounter 0
+
+ Mod Buy Order sent from STG 
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ Modified Buy PF 1 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+ Buy Order found
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo 16 Side 1 ***
+
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 17 Side 1 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Buy Order recieved in STG 
+Event recieved for running stg 2010100017
+ New class OnDiff PF 1 BNSFDIFF 4100 BFSN 4200
+
+Packet sent
+PFNumber 1 dAsksDifference 4185 dBidsDifference 4195 SellFarStatus 0 SellTradeCounter 0
+
+
+Length= 8847359 tcode 1310720000
+
+ &&&&&&&&&&&&&&&&&&&&&& 1 HashKey while creating holder &&&&&&&&&&&&&&&&&&&&&&796809 Count 0
+
+ Data inserted No key found 
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 2 HashKey after creating holder &&&&&&&&&&&&&&&&&&&&&&796809 Count 1
+
+PFNumber 1 New Sell Order sent from STG  Symbol NIFTY      Instrument Name FUTIDXNIFTY     
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA PFnumber 1 Sell bid @ 819585 Token 43329 Side 2 Qty 75 Price 819585 Hashkey  Sell Order found
+796809
+ 
+ ****** SendToExchange 136 Length= 134 tcode 20000 UserId= 28823 pkt.SeqNo 18 Side 2 ***** 
+
+ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+PFNumber
+ 
+ ****** Sent = 1 dAsksDifference 4185 dBidsDifference 4195134 tcode 20000 UserId= 28823 pkt.SeqNo 18 Side 2 ***** 
+
+ BuyFarStatus 2 BuyTradeCounter 0
+
+ Mod Buy Order sent from STG 
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ Modified Buy PF 1 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived=  Buy Order found180
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo  tCode= 18 Side 1 ***20073
+ %%%%%%
+
+
+
+
+ ****Sent = Token 43329 Price 164819585 tcode 20040 UserId=  Qty 2882375 pkt.SeqNo  Side 219 OrderNumber  Side 1 ***
+
+3.86653e-312
+
+ HashKey from GetRecord 796809
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 1 HashKey while creating holder &&&&&&&&&&&&&&&&&&&&&&19 Count 0
+
+ Data inserted with OrderNo 
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 2 HashKey after creating holder &&&&&&&&&&&&&&&&&&&&&&19 Count 0
+
+ Packet recieved in BindConnection 1 
+
+ Sell Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 2
+
+  ((((((((((((((((((   Transcode from AutoClient 20073 ))))))))))))))))))
+
+ORDER_CONFIRMATION_TR  : 10  Mod Sell Order recieved in STG 
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4180 dBidsDifference 4195 SellFarStatus 3 SellTradeCounter 0
+
+ Mod Sell Order sent from STG 
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Modified Sell PF 1 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+PFNumber Buy Order found1 dAsksDifference 
+4180 dBidsDifference 
+
+ ****SendToExchange 164 Modify Length= 4195164 tcode 20040 UserId= 28823 pkt.SeqNo  BuyFarStatus 19 Side 2 ***
+
+2 BuyTradeCounter 0
+
+ Mod Buy Order sent from STG 
+
+
+ ****Sent = QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ Modified Buy PF 1641 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+ tcode 20040 UserId= 28823 pkt.SeqNo 20 Side 2 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode=  Buy Order found20074
+ %%%%%%
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo 20 Side 1 ***
+
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 21 Side 1 ***
+
+
+
+ Packet recieved in BindConnection 1 
+
+ Sell Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 2
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Sell Order recieved in STG 
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4180 dBidsDifference 4195 SellFarStatus 2 SellTradeCounter 0
+
+ Mod Sell Order sent from STG 
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Modified Sell PF 1 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+ Buy Order found
+
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo PFNumber211 dAsksDifference 4180 dBidsDifference 4195 BuyFarStatus  Side 22 *** BuyTradeCounter 0
+
+
+ Mod Buy Order sent from STG 
+
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ Modified Buy PF 1 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 22 Side 2 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received Buy Order found
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo 22 Side 1 ***
+
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 23 Side 1 ***
+
+
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Sell Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 2
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Sell Order recieved in STG 
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4040 dBidsDifference 4195 SellFarStatus 2 SellTradeCounter 0
+
+ Cancel Sell Order sent from STG 
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Cancelled Sell PF 1 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+ Buy Order found
+PFNumber1 dAsksDifference 4040 dBidsDifference 4195 BuyFarStatus 2 BuyTradeCounter 0
+
+ Mod Buy Order sent from STG 
+
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20070 UserId= QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ Modified Buy PF 28823 pkt.SeqNo 231 Side  QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ2 ***
+
+
+
+
+
+ ****Sent = 164 tcode 20070 UserId= 28823 pkt.SeqNo 24 Side 2 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20075 %%%%%% Buy Order found
+
+
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId=  Packet recieved in BindConnection 1 
+28823
+ Sell Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 pkt.SeqNo  Side 224
+
+ Side 1 ***
+
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 25 Side 1 ***
+
+  ((((((((((((((((((   Transcode from AutoClient 20075 ))))))))))))))))))
+
+ Cancel Sell Order recieved in STG 
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4040 dBidsDifference 4195 SellFarStatus 4 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4040 dBidsDifference 4195 BuyFarStatus 2 BuyTradeCounter 0
+
+ Mod Buy Order sent from STG 
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ Modified Buy PF 1 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+ Buy Order found
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo 25 Side 1 ***
+
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 26 Side 1 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4070 dBidsDifference 4185 SellFarStatus 4 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4070 dBidsDifference 4185 BuyFarStatus 2 BuyTradeCounter 0
+
+ Mod Buy Order sent from STG 
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ Modified Buy PF 1 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+ Buy Order found
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo 26 Side 1 ***
+
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 27 Side 1 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4070 dBidsDifference 4185 SellFarStatus 4 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4070 dBidsDifference 4185 BuyFarStatus 2 BuyTradeCounter 0
+
+ Mod Buy Order sent from STG 
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ Modified Buy PF 1 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+ Buy Order found
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo 27 Side 1 ***
+
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 28 Side 1 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4070 dBidsDifference 4185 SellFarStatus 4 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4070 dBidsDifference 4185 BuyFarStatus 2 BuyTradeCounter 0
+
+ Mod Buy Order sent from STG 
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ Modified Buy PF 1 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+ Buy Order found
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo 28 Side 1 ***
+
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 29 Side 1 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4070 dBidsDifference 4185 SellFarStatus 4 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4070 dBidsDifference 4185 BuyFarStatus 2 BuyTradeCounter 0
+
+ Mod Buy Order sent from STG 
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ Modified Buy PF 1 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+ Buy Order found
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo 29 Side 1 ***
+
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 30 Side 1 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4115 dBidsDifference 4250 SellFarStatus 4 SellTradeCounter 0
+
+
+Length= 8847359 tcode 1310720000
+
+ &&&&&&&&&&&&&&&&&&&&&& 1 HashKey while creating holder &&&&&&&&&&&&&&&&&&&&&&797181 Count 0
+
+ Data inserted No key found 
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 2 HashKey after creating holder &&&&&&&&&&&&&&&&&&&&&&797181 Count 1
+
+PFNumber 1 New Sell Order sent from STG  Symbol NIFTY      Instrument Name FUTIDXNIFTY     
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA PFnumber 1 Sell bid @ 819445 Token 43329 Side 2 Qty 75 Price 819445 Hashkey  Sell Order found797181
+ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+ 
+ ****** SendToExchange 136 Length= 134 tcode 20000 UserId= 28823 pkt.SeqNo 31 Side 2 ***** 
+
+
+PFNumber
+ 
+ ****** Sent = 1134 dAsksDifference  tcode 4115 dBidsDifference 4250 BuyFarStatus 2 BuyTradeCounter 200000
+ UserId= 
+ Cancel Buy Order sent from STG 
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQq Cancelled Buy PF 1 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQq
+
+28823 pkt.SeqNo 31 Side 2 ***** 
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived=  Buy Order found180 tCode= 
+20073 %%%%%%
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20070 UserId= 28823 pkt.SeqNo 31 Side 1 ***
+
+
+
+ ****Sent = 164 tcode 20070 UserId= 28823 pkt.SeqNo 32 Side 1 ***
+
+
+
+Token 43329 Price 819445 Qty 75 Side 2 OrderNumber 5.05684e-312
+
+ HashKey from GetRecord 797181
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 1 HashKey while creating holder &&&&&&&&&&&&&&&&&&&&&&32 Count 0
+
+ Data inserted with OrderNo 
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 2 HashKey after creating holder &&&&&&&&&&&&&&&&&&&&&&32 Count 0
+
+ Packet recieved in BindConnection 1 
+
+ Sell Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 2
+
+  ((((((((((((((((((   Transcode from AutoClient 20073 ))))))))))))))))))
+
+ORDER_CONFIRMATION_TR  : 10  Mod Sell Order recieved in STG 
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20075 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20075 ))))))))))))))))))
+
+ Cancel Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4115 dBidsDifference 4250 SellFarStatus 3 SellTradeCounter 0
+
+ Mod Sell Order sent from STG 
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Modified Sell PF 1 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+ Buy Order found
+
+PFNumber1 dAsksDifference 4115 dBidsDifference 
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo 32 Side 2 ***
+
+
+
+ ****Sent = 4250164 tcode 20040 UserId= 28823 pkt.SeqNo 33 Side  BuyFarStatus 2 ***4 BuyTradeCounter 
+0
+
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Sell Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 2
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Sell Order recieved in STG 
+PFNumber 1 dAsksDifference 4115 dBidsDifference 4250 SellFarStatus 2 SellTradeCounter 0
+
+ Mod Sell Order sent from STG 
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Modified Sell PF 1 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+ Buy Order found
+
+PFNumber1 dAsksDifference 4115 dBidsDifference 4250
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo 33 Side 2 ***
+
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 34 Side 2 ***
+
+ BuyFarStatus 4 BuyTradeCounter 0
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Sell Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 2
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Sell Order recieved in STG 
+PFNumber 1 dAsksDifference 4115 dBidsDifference 4250 SellFarStatus 2 SellTradeCounter 0
+
+ Mod Sell Order sent from STG 
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Modified Sell PF 1 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+PFNumber1 dAsksDifference 4115 dBidsDifference 4250 BuyFarStatus 4 BuyTradeCounter 0
+
+ Buy Order found
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo 34 Side 2 ***
+
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 35 Side 2 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Sell Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 2
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Sell Order recieved in STG 
+PFNumber 1 dAsksDifference 4110 dBidsDifference 4200 SellFarStatus 2 SellTradeCounter 0
+
+ Mod Sell Order sent from STG 
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Modified Sell PF 1 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+PFNumber1 dAsksDifference 4110 dBidsDifference 4200 BuyFarStatus 4 BuyTradeCounter 0
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 1 HashKey while creating holder &&&&&&&&&&&&&&&&&&&&&& Buy Order found
+
+
+ ****SendToExchange 164 Modify Length= 797123164 tcode 20040 UserId= 28823 pkt.SeqNo 35 Count  Side 2 ***0
+
+
+
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 36 Side 2 ***
+
+ Data inserted No key found 
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 2 HashKey after creating holder &&&&&&&&&&&&&&&&&&&&&&797123 Count 1
+
+PFNumber 1 New Buy Order sent from STG  Symbol NIFTY      Instrument Name FUTIDXNIFTY     
+ QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ PFnumber 1 buy bid @ 819400 Token 43329 Side 1 Qty 75 Price 819400 Hashkey 797123 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received Buy Order found
+
+ %%%%%%%% bytesReceived= 
+
+ 
+ ****** SendToExchange 136 Length= 134 tcode 20000 UserId= 28823180 pkt.SeqNo 37 Side 1 tCode=  ***** 20074
+ %%%%%%
+
+
+
+ 
+ ****** Sent = 134 tcode 20000 UserId= 28823 pkt.SeqNo 37 Side 1 ***** 
+
+ Packet recieved in BindConnection 1 
+
+ Sell Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 2
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Sell Order recieved in STG 
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20073 %%%%%%
+
+Token 43329 Price 819400 Qty 75 Side 1 OrderNumber 3.82691e-312
+
+ HashKey from GetRecord 797123
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 1 HashKey while creating holder &&&&&&&&&&&&&&&&&&&&&&37 Count 0
+
+ Data inserted with OrderNo 
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 2 HashKey after creating holder &&&&&&&&&&&&&&&&&&&&&&37 Count 0
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20073 ))))))))))))))))))
+
+ORDER_CONFIRMATION_TR  : 7  Mod Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4110 dBidsDifference 4200 SellFarStatus 2 SellTradeCounter 0
+
+ Mod Sell Order sent from STG 
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Modified Sell PF 1 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+PFNumber1 dAsksDifference 4110 dBidsDifference  Buy Order found4200 BuyFarStatus 3 BuyTradeCounter 0
+
+ Mod Buy Order sent from STG 
+
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo 37 Side 2 ***
+
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ Modified Buy PF 1 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 38 Side 2 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived=  Buy Order found180
+ tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Sell Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 2
+
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo 38 Side 1 ***
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+
+
+ ****Sent = 164 tcode 20040 UserId=  ORDER_MOD_CONFIRMATION_TR Sell Order recieved in STG 
+28823 pkt.SeqNo 39 Side 1 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4110 dBidsDifference 4200 SellFarStatus 2 SellTradeCounter 0
+
+ Mod Sell Order sent from STG 
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Modified Sell PF 1 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+PFNumber1 dAsksDifference 4110 dBidsDifference 4200 BuyFarStatus 2 BuyTradeCounter 0
+
+ Mod Buy Order sent from STG 
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ Modified Buy PF 1 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+ Buy Order found
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo 39 Side 2 ***
+
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 40 Side 2 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Buy Order found
+ Packet recieved in BindConnection 1 
+
+ Sell Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 2
+
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo 40 Side 1 ***
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+
+
+ ****Sent =  ORDER_MOD_CONFIRMATION_TR Sell Order recieved in STG 164
+ tcode 20040 UserId= 28823 pkt.SeqNo 41 Side 1 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count ReceivedPFNumber 1 dAsksDifference 4110 dBidsDifference 4200 SellFarStatus 2 SellTradeCounter 0
+
+ Mod Sell Order sent from STG 
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Modified Sell PF 1 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+PFNumber1 dAsksDifference 4110 dBidsDifference 4200 BuyFarStatus 1 BuyTradeCounter 0
+
+ Buy Order found
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo 41 Side 2 ***
+
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 42 Side 2 ***
+
+
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Buy Order recieved in STG 
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Sell Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 2
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Sell Order recieved in STG 
+PFNumber 1 dAsksDifference 4110 dBidsDifference 4200 SellFarStatus 2 SellTradeCounter 0
+
+ Mod Sell Order sent from STG 
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Modified Sell PF 1 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+PFNumber1 dAsksDifference 4110 dBidsDifference 4200 BuyFarStatus 2 BuyTradeCounter 0
+
+ Mod Buy Order sent from STG 
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ Modified Buy PF 1 Buy Order found QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo 42 Side 2 ***
+
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 43 Side 2 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Buy Order found
+ Packet recieved in BindConnection 1 
+
+ Sell Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 2
+
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode   ((((((((((((((((((   Transcode from AutoClient 2004020074 UserId=  ))))))))))))))))))28823 pkt.SeqNo 43 Side 1 ***
+
+
+
+ ORDER_MOD_CONFIRMATION_TR Sell Order recieved in STG 
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 44 Side 1 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4110 dBidsDifference 4200 SellFarStatus 2 SellTradeCounter 0
+
+ Mod Sell Order sent from STG 
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Modified Sell PF 1 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+PFNumber1 dAsksDifference 4110 dBidsDifference 4200 BuyFarStatus 2 Buy Order found BuyTradeCounter 0
+
+ Mod Buy Order sent from STG 
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ Modified Buy PF 1 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo 44 Side 2 ***
+
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 45 Side 2 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received Buy Order found
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo 45 Side 1 ***
+
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 46 Side 1 ***
+
+
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Sell Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 2
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Sell Order recieved in STG 
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4085 dBidsDifference 4200 SellFarStatus 2 SellTradeCounter 0
+
+ Cancel Sell Order sent from STG 
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA Cancelled Sell PF 1 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+PFNumber1 dAsksDifference 4085 dBidsDifference 4200 BuyFarStatus 2 BuyTradeCounter  Buy Order found0
+
+
+ Mod Buy Order sent from STG 
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ Modified Buy PF 1 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20070 UserId= 28823 pkt.SeqNo 46 Side 2 ***
+
+
+
+ ****Sent = 164 tcode 20070 UserId= 28823 pkt.SeqNo 47 Side 2 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received Buy Order found
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo 47 Side 1 ***
+
+
+
+ %%%%%%%% bytesReceived= 180 tCode= 20075 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Sell Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 2
+
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 48 Side 1 ***
+
+  ((((((((((((((((((   Transcode from AutoClient 20075 ))))))))))))))))))
+
+ Cancel Sell Order recieved in STG 
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4085 dBidsDifference 4200 SellFarStatus 4 SellTradeCounter 0
+
+PFNumber1 dAsksDifference 4085 dBidsDifference 4200 BuyFarStatus 2 BuyTradeCounter 0
+
+ Mod Buy Order sent from STG 
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ Modified Buy PF 1 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+ Buy Order found
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 28823 pkt.SeqNo 48 Side 1 ***
+
+
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 49 Side 1 ***
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Buy Order recieved in STG 
+PFNumber 1 dAsksDifference 4215 dBidsDifference 4200 SellFarStatus 4 SellTradeCounter 0
+
+
+Length= 8847359 tcode 1310720000
+
+ &&&&&&&&&&&&&&&&&&&&&& 1 HashKey while creating holder &&&&&&&&&&&&&&&&&&&&&&796799 Count 0
+
+ Data inserted No key found 
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 2 HashKey after creating holder &&&&&&&&&&&&&&&&&&&&&&796799 Count 1
+
+PFNumber 1 New Sell Order sent from STG  Symbol NIFTY      Instrument Name FUTIDXNIFTY     
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA PFnumber 1 Sell bid @ 819575 Token  Sell Order found43329
+
+ 
+ ****** SendToExchange 136 Length= 134 tcode 20000 UserId= 28823 pkt.SeqNo 50 Side 2 *****  Side 
+
+2 Qty 75 Price 819575 Hashkey 796799 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+PFNumber1 dAsksDifference 
+ 
+ ****** Sent = 4215 dBidsDifference 4200 BuyFarStatus 1342 BuyTradeCounter 0
+
+ Mod Buy Order sent from STG  tcode 
+20000 UserId= 28823 pkt.SeqNo QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ Modified Buy PF 501 Side  QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ2 ***** 
+
+
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20073 %%%%%% Buy Order found
+
+
+
+ ****SendToExchange 164 Modify Length= 164 tcode 20040 UserId= 
+28823Token  pkt.SeqNo 4332950 Price  Side 819575 Qty 751 *** Side 
+
+2 OrderNumber 
+
+ ****Sent = 164 tcode 20040 UserId= 28823 pkt.SeqNo 51 Side 1 ***
+
+2.00332e-312
+
+ HashKey from GetRecord 796799
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 1 HashKey while creating holder &&&&&&&&&&&&&&&&&&&&&&51 Count 0
+
+ Data inserted with OrderNo 
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 2 HashKey after creating holder &&&&&&&&&&&&&&&&&&&&&&51 Count 0
+
+ Packet recieved in BindConnection 1 
+
+ Sell Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 2
+
+  ((((((((((((((((((   Transcode from AutoClient 20073 ))))))))))))))))))
+
+ORDER_CONFIRMATION_TR  : 10  Mod Sell Order recieved in STG 
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received
+
+ %%%%%%%% bytesReceived= 180 tCode= 20074 %%%%%%
+
+ Packet recieved in BindConnection 1 
+
+ Buy Order found
+ Packet recieved in BindConnection 2 PF 1 CID 2010100017 Side 1
+
+  ((((((((((((((((((   Transcode from AutoClient 20074 ))))))))))))))))))
+
+ ORDER_MOD_CONFIRMATION_TR Buy Order recieved in STG 
+Event recieved for running stg 2010100017
+PFNumber 1 New class OnUnSub PF 1 Far 43329 Near 57066
+
+Packet sent
+Packet sent
+Event recieved for running stg 2010100017
+PFNumber 4 Token Far 43329 Token Near 57066
+
+ _StgClass 1
+
+ New class PairSubs %%%%%%%%%%%%%%%%%%%%%%% 
+
+PFNumber 4 New class OnSub PF 4 Far 43329 Near 57066
+
+Portfolio 4 subscribed successfully Key 6520101000174
+Packet sent
+PFNumber 4 dAsksDifference 4245 dBidsDifference 4240 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4245 dBidsDifference 4240 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4245 dBidsDifference 4240 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4245 dBidsDifference 4240 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4160 dBidsDifference 4140 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4160 dBidsDifference 4140 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4160 dBidsDifference 4140 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4160 dBidsDifference 4140 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4215 dBidsDifference 4255 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4215 dBidsDifference 4255 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4215 dBidsDifference 4255 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4215 dBidsDifference 4255 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4285 dBidsDifference 4260 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4285 dBidsDifference 4260 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4285 dBidsDifference 4260 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4285 dBidsDifference 4260 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4310 dBidsDifference 4220 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4310 dBidsDifference 4220 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4310 dBidsDifference 4220 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4310 dBidsDifference 4220 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4310 dBidsDifference 4230 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4310 dBidsDifference 4230 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4310 dBidsDifference 4230 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4310 dBidsDifference 4230 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4240 dBidsDifference 4225 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4240 dBidsDifference 4225 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4240 dBidsDifference 4225 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4240 dBidsDifference 4225 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4215 dBidsDifference 4210 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4215 dBidsDifference 4210 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4215 dBidsDifference 4210 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4215 dBidsDifference 4210 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4215 dBidsDifference 4210 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4215 dBidsDifference 4210 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4215 dBidsDifference 4210 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4215 dBidsDifference 4210 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4245 dBidsDifference 4265 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4245 dBidsDifference 4265 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4245 dBidsDifference 4265 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4245 dBidsDifference 4265 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4240 dBidsDifference 4260 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4240 dBidsDifference 4260 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4240 dBidsDifference 4260 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4240 dBidsDifference 4260 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4255 dBidsDifference 4240 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4255 dBidsDifference 4240 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4255 dBidsDifference 4240 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4255 dBidsDifference 4240 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4255 dBidsDifference 4195 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4255 dBidsDifference 4195 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4255 dBidsDifference 4195 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4255 dBidsDifference 4195 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4295 dBidsDifference 4270 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4295 dBidsDifference 4270 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4265 dBidsDifference 4255 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4265 dBidsDifference 4255 BuyFarStatus 0 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4265 dBidsDifference 4255 SellFarStatus 0 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4265 dBidsDifference 4255 BuyFarStatus 0 BuyTradeCounter 0
+
+Event recieved for running stg 2010100017
+ New class OnDiff PF 4 BNSFDIFF 4100 BFSN 4200
+
+Packet sent
+PFNumber 4 dAsksDifference 4190 dBidsDifference 4165 SellFarStatus 0 SellTradeCounter 0
+
+
+Length= 2181627904 tcode 1107296256
+
+ &&&&&&&&&&&&&&&&&&&&&& 1 HashKey while creating holder &&&&&&&&&&&&&&&&&&&&&&796909 Count 0
+
+ Data inserted No key found 
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 2 HashKey after creating holder &&&&&&&&&&&&&&&&&&&&&&796909 Count 1
+
+PFNumber 4 New Sell Order sent from STG  Symbol Ç Instrument Name 
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA PFnumber 4 Sell bid @ 819685 Token 43329 Side 2 Qty 75 Price 819685 Hashkey  Sell Order found796909
+
+ 
+ ****** SendToExchange 136 Length= 33289 tcode 16896 UserId=  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0 pkt.SeqNo 
+52
+PFNumber Side 4 dAsksDifference 04190 *****  dBidsDifference 
+4165
+ BuyFarStatus 0 BuyTradeCounter 0
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 1 HashKey while creating holder &&&&&&&&&&&&&&&&&&&&&&796767 Count 1
+
+
+ 
+ ****** Sent = 33289 tcode 16896 UserId= 0 pkt.SeqNo  Data inserted No key found 52
+
+
+
+ &&&&&&&&&&&&&&&&&&&&&& 2 HashKey after creating holder &&&&&&&&&&&&&&&&&&&&&&796767 Count 2 Side 
+
+PFNumber 04 New Buy Order sent from STG  Symbol Ç Instrument Name 
+ QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ PFnumber 4 buy bid @ 819540 Token 43329 Side  ***** 1 Qty 
+75
+ Price 819540 Hashkey 796767 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count Received Buy Order found
+
+ 
+ ****** SendToExchange 136 Length= 24771 tcode 64758 UserId= 3346989056 pkt.SeqNo 53 Side 51071 ***** 
+
+
+ 
+ ****** Sent = 24771 tcode 64758 UserId= 3346989056 pkt.SeqNo 53 Side 51071 ***** 
+
+
+
+ %%%%%%%% bytesReceived= 28 tCode= 15000 %%%%%%
+
+
+15000 Invitation Count ReceivedPFNumber 4 dAsksDifference 4190 dBidsDifference 4165 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4190 dBidsDifference 4165 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4295 dBidsDifference 4230 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4295 dBidsDifference 4230 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4295 dBidsDifference 4230 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4295 dBidsDifference 4230 BuyFarStatus 1 BuyTradeCounter 0
+
+Event recieved for running stg 2010100017
+ New class OnDiff PF 4 BNSFDIFF 4100 BFSN 4200
+
+Packet sent
+PFNumber 4 dAsksDifference 4305 dBidsDifference 4265 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4305 dBidsDifference 4265 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4305 dBidsDifference 4265 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4305 dBidsDifference 4265 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4205 dBidsDifference 4170 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4205 dBidsDifference 4170 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4205 dBidsDifference 4170 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4205 dBidsDifference 4170 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4280 dBidsDifference 4170 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4280 dBidsDifference 4170 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4280 dBidsDifference 4170 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4280 dBidsDifference 4170 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4225 dBidsDifference 4170 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4225 dBidsDifference 4170 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4225 dBidsDifference 4170 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4225 dBidsDifference 4170 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4255 dBidsDifference 4225 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4255 dBidsDifference 4225 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4255 dBidsDifference 4225 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4255 dBidsDifference 4225 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4235 dBidsDifference 4220 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4235 dBidsDifference 4220 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4235 dBidsDifference 4220 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4235 dBidsDifference 4220 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4235 dBidsDifference 4220 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4235 dBidsDifference 4220 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4235 dBidsDifference 4220 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4235 dBidsDifference 4220 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4225 dBidsDifference 4205 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4225 dBidsDifference 4205 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4225 dBidsDifference 4205 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4225 dBidsDifference 4205 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4235 dBidsDifference 4200 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4235 dBidsDifference 4200 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4235 dBidsDifference 4200 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4235 dBidsDifference 4200 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4220 dBidsDifference 4295 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4220 dBidsDifference 4295 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4220 dBidsDifference 4295 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4220 dBidsDifference 4295 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4255 dBidsDifference 4310 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4255 dBidsDifference 4310 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4255 dBidsDifference 4310 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4255 dBidsDifference 4310 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4240 dBidsDifference 4310 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4240 dBidsDifference 4310 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4240 dBidsDifference 4310 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4240 dBidsDifference 4310 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4265 dBidsDifference 4310 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4265 dBidsDifference 4310 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4265 dBidsDifference 4310 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4265 dBidsDifference 4310 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4265 dBidsDifference 4310 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4265 dBidsDifference 4310 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4265 dBidsDifference 4310 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4265 dBidsDifference 4310 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4270 dBidsDifference 4305 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4270 dBidsDifference 4305 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4270 dBidsDifference 4305 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4270 dBidsDifference 4305 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4270 dBidsDifference 4305 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4270 dBidsDifference 4305 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4270 dBidsDifference 4305 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4270 dBidsDifference 4305 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4265 dBidsDifference 4305 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4265 dBidsDifference 4305 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4265 dBidsDifference 4305 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4265 dBidsDifference 4305 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4255 dBidsDifference 4305 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4255 dBidsDifference 4305 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4255 dBidsDifference 4305 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4255 dBidsDifference 4305 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4255 dBidsDifference 4305 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4255 dBidsDifference 4305 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4255 dBidsDifference 4305 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4255 dBidsDifference 4305 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4265 dBidsDifference 4300 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4265 dBidsDifference 4300 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4265 dBidsDifference 4300 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4265 dBidsDifference 4300 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4315 dBidsDifference 4300 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4315 dBidsDifference 4300 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4315 dBidsDifference 4300 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4315 dBidsDifference 4300 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4305 dBidsDifference 4300 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4305 dBidsDifference 4300 BuyFarStatus 1 BuyTradeCounter 0
+
+PFNumber 4 dAsksDifference 4305 dBidsDifference 4300 SellFarStatus 1 SellTradeCounter 0
+
+PFNumber4 dAsksDifference 4305 dBidsDifference 4300 BuyFarStatus 1 BuyTradeCounter 0
+
+ Login Method raised from event 
+
+ ============================== 
+
+ StgType	0
+
+ ============================== 
+
+Client Logout requested
+
+Shutting Down Datasocket 
+Shutting Down Tradesocket 
+Calling StopAllOrder/Token Unsubscription 
+Cancellation Token Number 43329
+
+Symbol 43329 UnSubscribed successfully 
+Symbol 57066 UnSubscribed successfully 
+Cancellation Token Number 43329
+
+Stopped All Order SuccessFully.........
+Looking for open orders
+Cancellation Token Number 43329
+
+Cancellation Token Number 43329
+
+Cancel All Order SuccessFully.........
+ Time over. Time to release used resources
+
+Unsubscribing Data for Tokens and clearing SymbolDictionary
+SymbolDictionary Erased
+
+SymbolDictionary Erased
+
+Clearing OrderDetailsBuy
+Clearing _OrderDetailsSell
+Clearing _NMPACK
+Clearing Dataholder
+Clearing _FOPAIRDIFF
+Stopping running Data thread 1
+Data Thread released from group
+Data Thread disposed 
+Stopping running Event thread 1
+Event Thread released from group
+Data Thread disposed 
+Dispose Of class Called 
+DisposeCPP End SuccessFully.........
+Strategy Instance found for CleintID 2010100017 Dispose called for the same 
+Packet sent

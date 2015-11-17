@@ -1,0 +1,173 @@
+E:\share e\Divya Trader FrontEnd\Client\bin\Release\Client.exe.config
+E:\share e\Divya Trader FrontEnd\Client\bin\Release\Client.exe
+E:\share e\Divya Trader FrontEnd\Client\bin\Release\Client.pdb
+E:\share e\Divya Trader FrontEnd\Client\bin\Release\AMS.Profile.dll
+E:\share e\Divya Trader FrontEnd\Client\bin\Release\clrzmq.dll
+E:\share e\Divya Trader FrontEnd\Client\bin\Release\csv.dll
+E:\share e\Divya Trader FrontEnd\Client\bin\Release\CustomControls.dll
+E:\share e\Divya Trader FrontEnd\Client\bin\Release\DgvFilterPopup.dll
+E:\share e\Divya Trader FrontEnd\Client\bin\Release\Packet.dll
+E:\share e\Divya Trader FrontEnd\Client\bin\Release\rmsdata.dll
+E:\share e\Divya Trader FrontEnd\Client\bin\Release\Structure.dll
+E:\share e\Divya Trader FrontEnd\Client\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+E:\share e\Divya Trader FrontEnd\Client\bin\Release\WeifenLuo.WinFormsUI.Docking.pdb
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Release\Client.AddToken.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Release\Client.Fo_Fo_mktwatch.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Release\Client.frmDiff.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Release\Client.frmLog.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Release\Client.frmErrorLog.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Release\Client.frmGenOrderBook.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Release\Client.frmLogin.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Release\Client.frmMktWatch.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Release\Client.frmNetBook.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Release\Client.FrmOrderEntry.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Release\Client.frmProfile.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Release\Client.frmSplash.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Release\Client.frmTradeBook.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Release\Client.MDIParent1.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Release\Client.csproj.GenerateResource.Cache
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Release\Client.exe
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Release\Client.pdb
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Release\Client.csprojResolveAssemblyReference.cache
+E:\ClientFrontEnd\Client\bin\Release\Client.exe.config
+E:\ClientFrontEnd\Client\obj\x86\Release\Client.exe
+E:\ClientFrontEnd\Client\obj\x86\Release\Client.pdb
+E:\ClientFrontEnd\Client\bin\Release\Client.exe
+E:\ClientFrontEnd\Client\bin\Release\Client.pdb
+E:\ClientFrontEnd\Client\bin\Release\AMS.Profile.dll
+E:\ClientFrontEnd\Client\bin\Release\clrzmq.dll
+E:\ClientFrontEnd\Client\bin\Release\csv.dll
+E:\ClientFrontEnd\Client\bin\Release\CustomControls.dll
+E:\ClientFrontEnd\Client\bin\Release\DgvFilterPopup.dll
+E:\ClientFrontEnd\Client\bin\Release\Packet.dll
+E:\ClientFrontEnd\Client\bin\Release\rmsdata.dll
+E:\ClientFrontEnd\Client\bin\Release\Structure.dll
+E:\ClientFrontEnd\Client\bin\Release\WeifenLuo.WinFormsUI.Docking.pdb
+E:\ClientFrontEnd\Client\obj\x86\Release\Client.csprojResolveAssemblyReference.cache
+E:\ClientFrontEnd\Client\obj\x86\Release\Client.AddToken.resources
+E:\ClientFrontEnd\Client\obj\x86\Release\Client.Fo_Fo_mktwatch.resources
+E:\ClientFrontEnd\Client\obj\x86\Release\Client.frmDiff.resources
+E:\ClientFrontEnd\Client\obj\x86\Release\Client.frmLog.resources
+E:\ClientFrontEnd\Client\obj\x86\Release\Client.frmErrorLog.resources
+E:\ClientFrontEnd\Client\obj\x86\Release\Client.frmGenOrderBook.resources
+E:\ClientFrontEnd\Client\obj\x86\Release\Client.frmLogin.resources
+E:\ClientFrontEnd\Client\obj\x86\Release\Client.frmMktWatch.resources
+E:\ClientFrontEnd\Client\obj\x86\Release\Client.frmNetBook.resources
+E:\ClientFrontEnd\Client\obj\x86\Release\Client.FrmOrderEntry.resources
+E:\ClientFrontEnd\Client\obj\x86\Release\Client.frmProfile.resources
+E:\ClientFrontEnd\Client\obj\x86\Release\Client.frmSplash.resources
+E:\ClientFrontEnd\Client\obj\x86\Release\Client.frmTradeBook.resources
+E:\ClientFrontEnd\Client\obj\x86\Release\Client.MDIParent1.resources
+E:\ClientFrontEnd\Client\obj\x86\Release\Client.ProfileTrade_Book.resources
+E:\ClientFrontEnd\Client\obj\x86\Release\Client.Profile_forOrderBook.resources
+E:\ClientFrontEnd\Client\obj\x86\Release\Client.Properties.Resources.resources
+E:\ClientFrontEnd\Client\obj\x86\Release\Client.Re_Login.resources
+E:\ClientFrontEnd\Client\obj\x86\Release\Client.csproj.GenerateResource.Cache
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\bin\Release\Client.exe.config
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Release\Client.exe
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Release\Client.pdb
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\bin\Release\Client.exe
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\bin\Release\Client.pdb
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\bin\Release\AMS.Profile.dll
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\bin\Release\clrzmq.dll
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\bin\Release\csv.dll
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\bin\Release\CustomControls.dll
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\bin\Release\DgvFilterPopup.dll
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\bin\Release\NNanomsg.dll
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\bin\Release\Packet.dll
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\bin\Release\rmsdata.dll
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\bin\Release\Structure.dll
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\bin\Release\WeifenLuo.WinFormsUI.Docking.pdb
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Release\Client.csprojResolveAssemblyReference.cache
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Release\Client.AddSpreadToken.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Release\Client.AddToken.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Release\Client.All_DataGRD.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Release\Client.Fo_Fo_mktwatch.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Release\Client.fofospreadwatch.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Release\Client.frmDiff.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Release\Client.frmLog.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Release\Client.frmErrorLog.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Release\Client.frmGenOrderBook.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Release\Client.frmLogin.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Release\Client.frmMktWatch.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Release\Client.frmNetBook.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Release\Client.FrmOrderEntry.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Release\Client.frmProfile.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Release\Client.frmSplash.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Release\Client.frmTradeBook.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Release\Client.MDIParent1.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Release\Client.ProfileTrade_Book.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Release\Client.Profile_forOrderBook.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Release\Client.Properties.Resources.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Release\Client.Re_Login.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Release\Client.csproj.GenerateResource.Cache
+D:\shailendra sir office client update stable code\version unknown\Client\bin\Release\Client.exe.config
+D:\shailendra sir office client update stable code\version unknown\Client\bin\Release\Client.exe
+D:\shailendra sir office client update stable code\version unknown\Client\bin\Release\Client.pdb
+D:\shailendra sir office client update stable code\version unknown\Client\bin\Release\AMS.Profile.dll
+D:\shailendra sir office client update stable code\version unknown\Client\bin\Release\clrzmq.dll
+D:\shailendra sir office client update stable code\version unknown\Client\bin\Release\csv.dll
+D:\shailendra sir office client update stable code\version unknown\Client\bin\Release\CustomControls.dll
+D:\shailendra sir office client update stable code\version unknown\Client\bin\Release\DgvFilterPopup.dll
+D:\shailendra sir office client update stable code\version unknown\Client\bin\Release\NNanomsg.dll
+D:\shailendra sir office client update stable code\version unknown\Client\bin\Release\Packet.dll
+D:\shailendra sir office client update stable code\version unknown\Client\bin\Release\rmsdata.dll
+D:\shailendra sir office client update stable code\version unknown\Client\bin\Release\Structure.dll
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Release\Client.AddSpreadToken.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Release\Client.AddToken.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Release\Client.All_DataGRD.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Release\Client.Fo_Fo_mktwatch.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Release\Client.fofospreadwatch.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Release\Client.frmDiff.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Release\Client.frmLog.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Release\Client.frmErrorLog.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Release\Client.frmGenOrderBook.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Release\Client.frmLogin.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Release\Client.frmMktWatch.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Release\Client.frmNetBook.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Release\Client.FrmOrderEntry.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Release\Client.frmProfile.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Release\Client.frmSplash.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Release\Client.frmTradeBook.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Release\Client.MDIParent1.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Release\Client.ProfileTrade_Book.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Release\Client.Profile_forOrderBook.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Release\Client.Properties.Resources.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Release\Client.Re_Login.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Release\Client.csproj.GenerateResource.Cache
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Release\Client.exe
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Release\Client.pdb
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Release\Client.csprojResolveAssemblyReference.cache
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\bin\Release\Client.exe.config
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.exe
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.pdb
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.csprojResolveAssemblyReference.cache
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.AddSpreadToken.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.AddToken.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.All_DataGRD.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.Fo_Fo_mktwatch.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.fofospreadwatch.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.frmDiff.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.frmLog.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.frmErrorLog.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.frmGenOrderBook.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.frmLogin.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.frmMarketDepth.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.Spread.FrmMarketPicture.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.frmMktWatch.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.frmNetBook.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.FrmOrderEntry.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.frmProfile.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.frmSplash.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.frmTradeBook.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.MDIParent1.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.OrderBook.FrmOrderBook.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.ProfileTrade_Book.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.Profile_forOrderBook.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.Properties.Resources.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.Re_Login.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.Spread.FrmSpdOrderBook.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.Spread.frmSpreadMktWatch.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.frmSpreadOrdEntry.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.Trade_Tracker.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Release\Client.csproj.GenerateResource.Cache

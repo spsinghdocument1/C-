@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Columns>
+  <Column Input="WTC" />
+  <Column Input="_con_WTC" />
+  <Column Input="_sell_WTC" />
+  <Column Input="_sell_con_WTC" />
+  <Column Input="Token1" />
+  <Column Input="Token2" />
+  <Column Input="NEAR" />
+  <Column Input="FAR" />
+  <Column Input="NBID" />
+  <Column Input="NASK" />
+  <Column Input="NLTP" />
+  <Column Input="FBID" />
+  <Column Input="FASK" />
+  <Column Input="FLTP" />
+  <Column Input="BEQ" />
+  <Column Input="SEQ" />
+  <Column Input="V1" />
+  <Column Input="V2" />
+  <Column Input="S1" />
+  <Column Input="S2" />
+  <Column Input="TOK1_QTY" />
+  <Column Input="TOK2_QTY" />
+  <Column Input="NHD" />
+  <Column Input="FHD" />
+  <Column Input="D_B" />
+  <Column Input="TICKS" />
+</Columns>

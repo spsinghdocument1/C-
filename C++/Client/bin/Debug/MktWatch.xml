@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <SPREADFO>
+    <PF>1</PF>
+    <Token1>57066</Token1>
+    <Token2>43329</Token2>
+    <NEAR>NIFTY15NOVFUT</NEAR>
+    <FAR>NIFTY15DECFUT</FAR>
+    <NBID>8136.05</NBID>
+    <NASK>8136.75</NASK>
+    <NLTP>8136.75</NLTP>
+    <FBID>8179.05</FBID>
+    <FASK>8181.4</FASK>
+    <FLTP>8179.05</FLTP>
+    <BEQ>-0.3964</BEQ>
+    <SEQ>0.4116</SEQ>
+    <V1>613428.75</V1>
+    <V2>610203.75</V2>
+    <S1>610256.25</S1>
+    <S2>613605</S2>
+    <TOK1_QTY>75</TOK1_QTY>
+    <TOK2_QTY>75</TOK2_QTY>
+    <NBD>44.649999999999636</NBD>
+    <NHD>42.300000000000182</NHD>
+    <FBD>43</FBD>
+    <FHD>45.349999999999454</FHD>
+  </SPREADFO>
+</DocumentElement>

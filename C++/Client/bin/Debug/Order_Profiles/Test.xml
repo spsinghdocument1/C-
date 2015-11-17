@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Columns>
+  <Column Input="FullName" />
+  <Column Input="TokenNo" />
+  <Column Input="Buy_SellIndicator" />
+  <Column Input="Price" />
+  <Column Input="Volume" />
+  <Column Input="LogTime" />
+  <Column Input="OrderNumber" />
+</Columns>

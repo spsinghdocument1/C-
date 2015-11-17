@@ -1,0 +1,858 @@
+
+
+
+
+
+
+09:14:53:566 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:14:53:597 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:14:53:691 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:14:53:784 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:14:53:909 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:14:53:956 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:14:54:018 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:14:54:174 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:14:55:360 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:14:55:375 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:14:55:609 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:14:55:797 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:14:55:953 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:14:56:046 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:14:56:421 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:14:56:826 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:14:58:137 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:14:59:400 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:03:394 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:03:519 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:03:565 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:03:675 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:05:796 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:05:952 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:07:465 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:07:621 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:12:005 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:12:161 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:15:250 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:15:437 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:15:515 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:15:702 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:18:869 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:19:025 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:19:290 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:19:431 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:26:731 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:26:825 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:28:494 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:28:650 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:29:149 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:29:305 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:30:148 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:30:288 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:30:975 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:34:235 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:34:375 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:35:187 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:38:197 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:38:494 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:38:634 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:40:288 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:40:444 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:43:174 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:44:281 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:44:406 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:51:052 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:51:192 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:57:947 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:15:58:134 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:16:08:274 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:16:08:399 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:16:12:018 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:16:12:205 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:16:13:672 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:16:13:687 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:16:15:013 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:16:15:201 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:16:41:246 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:16:41:434 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:16:44:297 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:16:44:435 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:16:47:338 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:16:47:526 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:16:49:266 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:16:49:447 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:17:22:377 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:17:22:572 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:17:24:177 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:17:24:379 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:17:27:125 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:17:27:328 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:17:31:087 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:17:33:084 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:17:34:894 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:17:36:610 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:17:36:813 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:17:53:130 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:17:57:607 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:18:09:292 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:18:24:081 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:18:24:268 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:18:26:889 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:18:27:076 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:18:27:279 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:18:30:492 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:18:31:304 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:18:31:475 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:18:36:576 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:19:34:374 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:19:38:493 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:19:38:664 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:19:41:316 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:19:41:504 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:19:51:940 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:19:52:112 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:20:16:339 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:20:16:495 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:20:18:335 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:20:18:523 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:20:18:538 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:20:18:694 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:20:20:691 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:20:23:920 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:20:38:069 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:20:40:831 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:20:41:002 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:21:49:205 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:21:49:361 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:22:10:983 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:22:11:139 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:22:24:228 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:22:24:415 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:22:52:074 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:22:52:261 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:22:56:488 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:22:56:660 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:23:04:351 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:23:32:883 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:24:23:949 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:24:48:352 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:24:50:723 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:24:50:910 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:24:55:122 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:24:55:325 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:25:06:012 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:25:08:820 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:25:08:976 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:25:11:294 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:25:14:086 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:25:14:273 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:25:19:325 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:25:19:494 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:25:23:433 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:25:23:558 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:25:26:163 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:25:26:351 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:25:30:025 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:25:31:860 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:25:32:016 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:25:34:653 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:25:34:840 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:27:05:085 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:27:05:225 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:27:10:030 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:27:10:202 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:27:36:035 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:27:36:191 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:28:05:868 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:28:06:046 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:28:26:125 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:28:28:457 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:28:28:572 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:28:32:133 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:28:32:304 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:29:46:949 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:29:47:121 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:30:14:854 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:30:15:046 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:30:25:076 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:30:25:245 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:32:21:875 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:34:26:139 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:34:26:295 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:34:29:368 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:34:29:540 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:34:34:235 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:34:34:407 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:34:42:285 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:34:42:457 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:34:49:633 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:34:49:820 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:34:49:898 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:34:50:069 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:34:54:157 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:34:54:328 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:34:55:373 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:34:55:498 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:34:58:899 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:35:09:959 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:35:10:115 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:35:32:345 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:35:32:517 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:35:43:624 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:35:43:811 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:37:24:744 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:39:42:133 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:43:13:654 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:43:13:841 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:43:58:925 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:43:59:081 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+
+
+09:51:55:026 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:51:55:057 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+10:01:15:963 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <1.83479930936869E+106> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat)
+10:02:31:061 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <1.83479985618304E+106> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat)
+
+
+14:03:19:341 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+14:03:19:512 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+14:04:55:416 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+14:04:55:587 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Columns>
+  <Column Input="FullName" />
+  <Column Input="Buy_SellIndicator" />
+  <Column Input="Price" />
+  <Column Input="BranchId" />
+</Columns>

@@ -1,0 +1,350 @@
+
+
+
+
+
+
+09:33:41:690 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:33:59:207 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:33:59:253 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:33:59:269 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:33:59:285 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:33:59:300 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:33:59:316 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:33:59:331 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:33:59:347 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:33:59:363 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:33:59:378 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:33:59:409 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:34:01:656 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:34:01:812 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:34:37:906 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:34:38:047 │ NA|System.ArgumentException: Column named Bid cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:36:42:415 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat)
+09:39:06:779 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat)
+09:39:06:810 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat)
+09:39:06:857 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat)
+09:39:06:873 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat)
+09:39:06:904 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat)
+
+
+09:48:10:801 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+
+
+09:55:40:313 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:56:15:647 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:56:16:131 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:56:16:770 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:56:17:285 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+09:56:17:784 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+
+
+10:00:50:727 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+10:00:50:758 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+
+
+10:10:38:524 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+10:10:42:471 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+10:10:42:486 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+10:10:42:502 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+10:12:06:778 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+10:12:06:903 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+10:12:20:880 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+10:12:21:052 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+10:13:17:571 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+10:13:17:734 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+10:13:33:634 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+10:13:33:804 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+
+
+
+
+10:22:32:555 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+10:22:32:586 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+
+
+
+
+
+
+10:28:00:946 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat)
+10:28:04:315 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat)
+10:28:05:485 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat)
+10:28:05:641 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat)
+10:28:06:328 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat)
+10:28:06:499 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat)
+10:28:06:640 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat)
+10:28:06:811 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat)
+
+
+10:32:34:973 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat)
+10:33:00:902 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat)
+
+
+10:56:00:156 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+10:56:00:172 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+
+
+11:15:25:893 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+
+
+11:22:56:829 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+11:22:57:741 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+11:22:58:285 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+11:28:02:999 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <1.83519111077693E+106> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+11:28:03:140 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <1.83519111077693E+106> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+11:28:03:296 │ NA|System.ArgumentException: Value was either too large or too small for a Decimal.Couldn't store <1.83519111077693E+106> in TotalTradedValue Column.  Expected type is Decimal. ---> System.OverflowException: Value was either too large or too small for a Decimal.
+   at System.Decimal..ctor(Double value)
+   at System.Double.System.IConvertible.ToDecimal(IFormatProvider provider)
+   at System.Data.Common.DecimalStorage.Set(Int32 record, Object value)
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   --- End of inner exception stack trace ---
+   at System.Data.DataColumn.set_Item(Int32 record, Object value)
+   at System.Data.DataRow.set_Item(DataColumn column, Object value)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 190
+
+
+11:31:48:420 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+11:31:49:403 │ NA|System.ArgumentException: Column named LTP cannot be found.
+Parameter name: columnName
+   at System.Windows.Forms.DataGridViewCellCollection.get_Item(String columnName)
+   at Client.Spread.spradTableMethods.UpdateRecord(Object sender, ReadOnlyEventArgs`1 Stat) in e:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\Spread\spradTableMethods.cs:line 173
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

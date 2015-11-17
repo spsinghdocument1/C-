@@ -1,0 +1,500 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>10.0.0</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DEEB5E65-D602-45ED-AAD5-F48F230D48F7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Client</RootNamespace>
+    <AssemblyName>Client</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Externalconsole>true</Externalconsole>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Externalconsole>true</Externalconsole>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Client.MainClass</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>trade_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AMS.Profile, Version=2.0.5255.24960, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AMS.Profile.dll</HintPath>
+    </Reference>
+    <Reference Include="AtsApi, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AtsApi.dll</HintPath>
+    </Reference>
+    <Reference Include="AtsCommon, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AtsCommon.dll</HintPath>
+    </Reference>
+    <Reference Include="csv, Version=1.0.5490.33069, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\csv.dll</HintPath>
+    </Reference>
+    <Reference Include="CustomControls, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\CustomControls.dll</HintPath>
+    </Reference>
+    <Reference Include="DgvFilterPopup, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DgvFilterPopup.dll</HintPath>
+    </Reference>
+    <Reference Include="FormatWriter, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\FormatWriter.dll</HintPath>
+    </Reference>
+    <Reference Include="LogWriter, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\LogWriter.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Program Files (x86)\Microsoft Visual Studio 12.0\Visual Studio Tools for Office\PIA\Office14\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="NNanomsg, Version=0.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\NNanomsg.dll</HintPath>
+    </Reference>
+    <Reference Include="Packet, Version=1.0.5444.28478, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Packet.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="rmsdata, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\rmsdata.dll</HintPath>
+    </Reference>
+    <Reference Include="Structure, Version=1.0.5709.34457, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Structure.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="WeifenLuo.WinFormsUI.Docking">
+      <HintPath>D:\arif\dockpanelsuite-master\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddspreadToken.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddspreadToken.designer.cs">
+      <DependentUpon>AddspreadToken.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddToken.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddToken.designer.cs">
+      <DependentUpon>AddToken.cs</DependentUpon>
+    </Compile>
+    <Compile Include="All_DataGRD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="All_DataGRD.Designer.cs">
+      <DependentUpon>All_DataGRD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Child_Index.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Child_Index.Designer.cs">
+      <DependentUpon>Child_Index.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataTableFilter.cs" />
+    <Compile Include="ExcelUtlity.cs" />
+    <Compile Include="Fo_Fo_mktwatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fo_Fo_mktwatch.Designer.cs">
+      <DependentUpon>Fo_Fo_mktwatch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fo_Fo_spredwatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fo_Fo_spredwatch.designer.cs">
+      <DependentUpon>Fo_Fo_spredwatch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDiff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDiff.Designer.cs">
+      <DependentUpon>frmDiff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLog.Designer.cs">
+      <DependentUpon>frmLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataGridViewColumnSelector.cs" />
+    <Compile Include="frmErrorLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmErrorLog.Designer.cs">
+      <DependentUpon>frmErrorLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGenOrderBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGenOrderBook.Designer.cs">
+      <DependentUpon>frmGenOrderBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMarketDepth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMarketDepth.designer.cs">
+      <DependentUpon>frmMarketDepth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMarketPicture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMarketPicture.designer.cs">
+      <DependentUpon>FrmMarketPicture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMktWatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMktWatch.Designer.cs">
+      <DependentUpon>frmMktWatch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNetBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNetBook.Designer.cs">
+      <DependentUpon>frmNetBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOrderEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOrderEntry.designer.cs">
+      <DependentUpon>FrmOrderEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProfile.designer.cs">
+      <DependentUpon>frmProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplash.Designer.cs">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTradeBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTradeBook.Designer.cs">
+      <DependentUpon>frmTradeBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IniFile.cs" />
+    <Compile Include="LogWriterClass\logwritercls.cs" />
+    <Compile Include="LZOData\GStruct.cs" />
+    <Compile Include="LZOData\LzoCashData.cs" />
+    <Compile Include="LZOData\xSocket.cs" />
+    <Compile Include="LZO_NanoData\LzoNanoData.cs" />
+    <Compile Include="MDIParent1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent1.Designer.cs">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nanomqdata.cs" />
+    <Compile Include="OrderBook\AppClasses\CommonData.cs" />
+    <Compile Include="OrderBook\AppClasses\ContractFields.cs" />
+    <Compile Include="OrderBook\AppClasses\Enums.cs" />
+    <Compile Include="OrderBook\AppClasses\OrderTableMethods.cs" />
+    <Compile Include="OrderBook\AppClasses\WatchConst.cs" />
+    <Compile Include="OrderBook\FrmOrderBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderBook\FrmOrderBook.designer.cs" />
+    <Compile Include="ProfileTrade_Book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileTrade_Book.Designer.cs">
+      <DependentUpon>ProfileTrade_Book.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profile_forOrderBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profile_forOrderBook.Designer.cs">
+      <DependentUpon>Profile_forOrderBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Logic_Class.cs" />
+    <Compile Include="NNFInOut.cs" />
+    <Compile Include="NNFHandler.cs" />
+    <Compile Include="DataHandler.cs" />
+    <Compile Include="Holder.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Re-Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Re-Login.Designer.cs">
+      <DependentUpon>Re-Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="Spot\frmSpot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Spot\frmSpot.designer.cs">
+      <DependentUpon>frmSpot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Spot\SpotTableMethods.cs" />
+    <Compile Include="Spread\AppGlobal.cs" />
+    <Compile Include="Spread\CommonData.cs" />
+    <Compile Include="Spread\FrmSpdOrderBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Spread\FrmSpdOrderBook.designer.cs">
+      <DependentUpon>FrmSpdOrderBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Spread\frmSpreadMktWatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Spread\frmSpreadMktWatch.designer.cs">
+      <DependentUpon>frmSpreadMktWatch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Spread\frmSpreadOrdEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Spread\frmSpreadOrdEntry.designer.cs">
+      <DependentUpon>frmSpreadOrdEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Spread\spradTableMethods.cs" />
+    <Compile Include="Spread\SpreadClass\SpdOrderTableMethods.cs" />
+    <Compile Include="Spread\SpreadContract.cs" />
+    <Compile Include="Spread\SpreadStructure.cs" />
+    <Compile Include="Trade_Tracker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trade_Tracker.designer.cs">
+      <DependentUpon>Trade_Tracker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="udp reciever.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AddspreadToken.resx">
+      <DependentUpon>AddspreadToken.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddToken.resx">
+      <DependentUpon>AddToken.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="All_DataGRD.resx">
+      <DependentUpon>All_DataGRD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Child_Index.resx">
+      <DependentUpon>Child_Index.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fo_Fo_mktwatch.resx">
+      <DependentUpon>Fo_Fo_mktwatch.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fo_Fo_spredwatch.resx">
+      <DependentUpon>Fo_Fo_spredwatch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDiff.resx">
+      <DependentUpon>frmDiff.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLog.resx">
+      <DependentUpon>frmLog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmErrorLog.resx">
+      <DependentUpon>frmErrorLog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGenOrderBook.resx">
+      <DependentUpon>frmGenOrderBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMarketDepth.resx">
+      <DependentUpon>frmMarketDepth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMarketPicture.resx">
+      <DependentUpon>FrmMarketPicture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMktWatch.resx">
+      <DependentUpon>frmMktWatch.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNetBook.resx">
+      <DependentUpon>frmNetBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOrderEntry.resx">
+      <DependentUpon>FrmOrderEntry.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProfile.resx">
+      <DependentUpon>frmProfile.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplash.resx">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTradeBook.resx">
+      <DependentUpon>frmTradeBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent1.resx">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderBook\FrmOrderBook.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileTrade_Book.resx">
+      <DependentUpon>ProfileTrade_Book.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profile_forOrderBook.resx">
+      <DependentUpon>Profile_forOrderBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Re-Login.resx">
+      <DependentUpon>Re-Login.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Spot\frmSpot.resx">
+      <DependentUpon>frmSpot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Spread\FrmSpdOrderBook.resx">
+      <DependentUpon>FrmSpdOrderBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Spread\frmSpreadMktWatch.resx">
+      <DependentUpon>frmSpreadMktWatch.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Spread\frmSpreadOrdEntry.resx">
+      <DependentUpon>frmSpreadOrdEntry.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trade_Tracker.resx">
+      <DependentUpon>Trade_Tracker.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Profile\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="trade_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

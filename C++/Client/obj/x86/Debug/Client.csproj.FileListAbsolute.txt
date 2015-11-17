@@ -1,0 +1,566 @@
+E:\share e\Divya Trader FrontEnd\Client\Client\bin\Debug\Client.exe.config
+E:\share e\Divya Trader FrontEnd\Client\Client\bin\Debug\Client.exe
+E:\share e\Divya Trader FrontEnd\Client\Client\bin\Debug\Client.pdb
+E:\share e\Divya Trader FrontEnd\Client\Client\obj\x86\Debug\Client.frmLog.resources
+E:\share e\Divya Trader FrontEnd\Client\Client\obj\x86\Debug\Client.frmErrorLog.resources
+E:\share e\Divya Trader FrontEnd\Client\Client\obj\x86\Debug\Client.frmGenOrderBook.resources
+E:\share e\Divya Trader FrontEnd\Client\Client\obj\x86\Debug\Client.frmMktWatch.resources
+E:\share e\Divya Trader FrontEnd\Client\Client\obj\x86\Debug\Client.FrmOrderEntry.resources
+E:\share e\Divya Trader FrontEnd\Client\Client\obj\x86\Debug\Client.frmProfile.resources
+E:\share e\Divya Trader FrontEnd\Client\Client\obj\x86\Debug\Client.frmSplash.resources
+E:\share e\Divya Trader FrontEnd\Client\Client\obj\x86\Debug\Client.MDIParent1.resources
+E:\share e\Divya Trader FrontEnd\Client\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+E:\share e\Divya Trader FrontEnd\Client\Client\obj\x86\Debug\Client.exe
+E:\share e\Divya Trader FrontEnd\Client\Client\obj\x86\Debug\Client.pdb
+E:\share e\Divya Trader FrontEnd\Client\Client\obj\x86\Debug\Client.frmLogin.resources
+E:\share e\Divya Trader FrontEnd\Client\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+E:\share e\Divya Trader FrontEnd\Client\Client\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\share e\Divya Trader FrontEnd\Client\Client\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+E:\share e\Divya Trader FrontEnd\Client\Client\obj\x86\Debug\Client.AddToken.resources
+E:\share e\Divya Trader FrontEnd\Client\Client\obj\x86\Debug\Client.Fo_Fo_mktwatch.resources
+D:\shailendra\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+D:\shailendra\Client\obj\x86\Debug\Client.AddToken.resources
+D:\shailendra\Client\obj\x86\Debug\Client.Fo_Fo_mktwatch.resources
+D:\shailendra\Client\obj\x86\Debug\Client.frmLog.resources
+D:\shailendra\Client\obj\x86\Debug\Client.frmErrorLog.resources
+D:\shailendra\Client\obj\x86\Debug\Client.frmGenOrderBook.resources
+D:\shailendra\Client\obj\x86\Debug\Client.frmLogin.resources
+D:\shailendra\Client\obj\x86\Debug\Client.frmMktWatch.resources
+D:\shailendra\Client\obj\x86\Debug\Client.FrmOrderEntry.resources
+D:\shailendra\Client\obj\x86\Debug\Client.frmProfile.resources
+D:\shailendra\Client\obj\x86\Debug\Client.frmSplash.resources
+D:\shailendra\Client\obj\x86\Debug\Client.MDIParent1.resources
+D:\shailendra\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+E:\shailendra\Client\bin\Debug\Client.exe
+E:\shailendra\Client\bin\Debug\Client.exe.config
+E:\shailendra\Client\obj\x86\Debug\Client.AddToken.resources
+E:\shailendra\Client\obj\x86\Debug\Client.Fo_Fo_mktwatch.resources
+E:\shailendra\Client\obj\x86\Debug\Client.frmLog.resources
+E:\shailendra\Client\obj\x86\Debug\Client.frmErrorLog.resources
+E:\shailendra\Client\obj\x86\Debug\Client.frmGenOrderBook.resources
+E:\shailendra\Client\obj\x86\Debug\Client.frmLogin.resources
+E:\shailendra\Client\obj\x86\Debug\Client.frmMktWatch.resources
+E:\shailendra\Client\obj\x86\Debug\Client.frmNetBook.resources
+E:\shailendra\Client\obj\x86\Debug\Client.FrmOrderEntry.resources
+E:\shailendra\Client\obj\x86\Debug\Client.frmProfile.resources
+E:\shailendra\Client\obj\x86\Debug\Client.frmSplash.resources
+E:\shailendra\Client\obj\x86\Debug\Client.frmTradeBook.resources
+E:\shailendra\Client\obj\x86\Debug\Client.MDIParent1.resources
+E:\shailendra\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+E:\shailendra\Client\obj\x86\Debug\Client.exe
+E:\shailendra\Client\obj\x86\Debug\Client.pdb
+E:\shailendra\Client\bin\Debug\Client.pdb
+E:\shailendra\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.AddToken.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.Fo_Fo_mktwatch.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.frmDiff.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.frmLog.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.frmErrorLog.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.frmGenOrderBook.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.frmLogin.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.frmMktWatch.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.frmNetBook.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.FrmOrderEntry.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.frmProfile.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.frmSplash.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.frmTradeBook.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.MDIParent1.resources
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+E:\share e\Divya Trader FrontEnd\Client\bin\Debug\Client.exe.config
+E:\share e\Divya Trader FrontEnd\Client\bin\Debug\Client.exe
+E:\share e\Divya Trader FrontEnd\Client\bin\Debug\Client.pdb
+E:\share e\Divya Trader FrontEnd\Client\bin\Debug\Structure.dll
+E:\share e\Divya Trader FrontEnd\Client\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\share e\Divya Trader FrontEnd\Client\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.exe
+E:\share e\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.pdb
+D:\code\Divya Trader FrontEnd\Client\bin\Debug\Client.exe.config
+D:\code\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.exe
+D:\code\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.pdb
+D:\code\Divya Trader FrontEnd\Client\bin\Debug\Client.exe
+D:\code\Divya Trader FrontEnd\Client\bin\Debug\Client.pdb
+D:\code\Divya Trader FrontEnd\Client\bin\Debug\Structure.dll
+D:\code\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.AddToken.resources
+D:\code\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.Fo_Fo_mktwatch.resources
+D:\code\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.frmDiff.resources
+D:\code\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.frmLog.resources
+D:\code\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.frmErrorLog.resources
+D:\code\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.frmGenOrderBook.resources
+D:\code\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.frmLogin.resources
+D:\code\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.frmMktWatch.resources
+D:\code\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.frmNetBook.resources
+D:\code\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.FrmOrderEntry.resources
+D:\code\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.frmProfile.resources
+D:\code\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.frmSplash.resources
+D:\code\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.frmTradeBook.resources
+D:\code\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.MDIParent1.resources
+D:\code\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+D:\code\Divya Trader FrontEnd\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+E:\new location\Client\bin\Debug\Client.exe.config
+E:\new location\Client\bin\Debug\Client.exe
+E:\new location\Client\bin\Debug\Client.pdb
+E:\new location\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+E:\new location\Client\obj\x86\Debug\Client.AddToken.resources
+E:\new location\Client\obj\x86\Debug\Client.Fo_Fo_mktwatch.resources
+E:\new location\Client\obj\x86\Debug\Client.frmDiff.resources
+E:\new location\Client\obj\x86\Debug\Client.frmLog.resources
+E:\new location\Client\obj\x86\Debug\Client.frmErrorLog.resources
+E:\new location\Client\obj\x86\Debug\Client.frmGenOrderBook.resources
+E:\new location\Client\obj\x86\Debug\Client.frmLogin.resources
+E:\new location\Client\obj\x86\Debug\Client.frmMktWatch.resources
+E:\new location\Client\obj\x86\Debug\Client.frmNetBook.resources
+E:\new location\Client\obj\x86\Debug\Client.FrmOrderEntry.resources
+E:\new location\Client\obj\x86\Debug\Client.frmProfile.resources
+E:\new location\Client\obj\x86\Debug\Client.frmSplash.resources
+E:\new location\Client\obj\x86\Debug\Client.frmTradeBook.resources
+E:\new location\Client\obj\x86\Debug\Client.MDIParent1.resources
+E:\new location\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+E:\new location\Client\obj\x86\Debug\Client.exe
+E:\new location\Client\obj\x86\Debug\Client.pdb
+G:\Client20150207eve\Client\bin\Debug\Client.exe.config
+G:\Client20150207eve\Client\obj\x86\Debug\Client.exe
+G:\Client20150207eve\Client\obj\x86\Debug\Client.pdb
+G:\Client20150207eve\Client\bin\Debug\Client.exe
+G:\Client20150207eve\Client\bin\Debug\Client.pdb
+G:\Client20150207eve\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+G:\Client20150207eve\Client\obj\x86\Debug\Client.AddToken.resources
+G:\Client20150207eve\Client\obj\x86\Debug\Client.Fo_Fo_mktwatch.resources
+G:\Client20150207eve\Client\obj\x86\Debug\Client.frmDiff.resources
+G:\Client20150207eve\Client\obj\x86\Debug\Client.frmLog.resources
+G:\Client20150207eve\Client\obj\x86\Debug\Client.frmErrorLog.resources
+G:\Client20150207eve\Client\obj\x86\Debug\Client.frmGenOrderBook.resources
+G:\Client20150207eve\Client\obj\x86\Debug\Client.frmLogin.resources
+G:\Client20150207eve\Client\obj\x86\Debug\Client.frmMktWatch.resources
+G:\Client20150207eve\Client\obj\x86\Debug\Client.frmNetBook.resources
+G:\Client20150207eve\Client\obj\x86\Debug\Client.FrmOrderEntry.resources
+G:\Client20150207eve\Client\obj\x86\Debug\Client.frmProfile.resources
+G:\Client20150207eve\Client\obj\x86\Debug\Client.frmSplash.resources
+G:\Client20150207eve\Client\obj\x86\Debug\Client.frmTradeBook.resources
+G:\Client20150207eve\Client\obj\x86\Debug\Client.MDIParent1.resources
+G:\Client20150207eve\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+G:\Client20150207eve\Client\obj\x86\Debug\Client.Properties.Resources.resources
+E:\ClientFrontEnd\Client\bin\Debug\Client.exe.config
+E:\ClientFrontEnd\Client\bin\Debug\Client.exe
+E:\ClientFrontEnd\Client\bin\Debug\Client.pdb
+E:\ClientFrontEnd\Client\obj\x86\Debug\Client.AddSpreadToken.resources
+E:\ClientFrontEnd\Client\obj\x86\Debug\Client.AddToken.resources
+E:\ClientFrontEnd\Client\obj\x86\Debug\Client.Fo_Fo_mktwatch.resources
+E:\ClientFrontEnd\Client\obj\x86\Debug\Client.fofospreadwatch.resources
+E:\ClientFrontEnd\Client\obj\x86\Debug\Client.frmDiff.resources
+E:\ClientFrontEnd\Client\obj\x86\Debug\Client.frmLog.resources
+E:\ClientFrontEnd\Client\obj\x86\Debug\Client.frmErrorLog.resources
+E:\ClientFrontEnd\Client\obj\x86\Debug\Client.frmGenOrderBook.resources
+E:\ClientFrontEnd\Client\obj\x86\Debug\Client.frmLogin.resources
+E:\ClientFrontEnd\Client\obj\x86\Debug\Client.frmMktWatch.resources
+E:\ClientFrontEnd\Client\obj\x86\Debug\Client.frmNetBook.resources
+E:\ClientFrontEnd\Client\obj\x86\Debug\Client.FrmOrderEntry.resources
+E:\ClientFrontEnd\Client\obj\x86\Debug\Client.frmProfile.resources
+E:\ClientFrontEnd\Client\obj\x86\Debug\Client.frmSplash.resources
+E:\ClientFrontEnd\Client\obj\x86\Debug\Client.frmTradeBook.resources
+E:\ClientFrontEnd\Client\obj\x86\Debug\Client.MDIParent1.resources
+E:\ClientFrontEnd\Client\obj\x86\Debug\Client.ProfileTrade_Book.resources
+E:\ClientFrontEnd\Client\obj\x86\Debug\Client.Profile_forOrderBook.resources
+E:\ClientFrontEnd\Client\obj\x86\Debug\Client.Properties.Resources.resources
+E:\ClientFrontEnd\Client\obj\x86\Debug\Client.Re_Login.resources
+E:\ClientFrontEnd\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+E:\ClientFrontEnd\Client\obj\x86\Debug\Client.exe
+E:\ClientFrontEnd\Client\obj\x86\Debug\Client.pdb
+E:\mayank\Client\bin\Debug\Client.exe.config
+E:\mayank\Client\bin\Debug\Client.exe
+E:\mayank\Client\bin\Debug\Client.pdb
+E:\mayank\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+E:\mayank\Client\obj\x86\Debug\Client.AddSpreadToken.resources
+E:\mayank\Client\obj\x86\Debug\Client.AddToken.resources
+E:\mayank\Client\obj\x86\Debug\Client.Fo_Fo_mktwatch.resources
+E:\mayank\Client\obj\x86\Debug\Client.fofospreadwatch.resources
+E:\mayank\Client\obj\x86\Debug\Client.frmDiff.resources
+E:\mayank\Client\obj\x86\Debug\Client.frmLog.resources
+E:\mayank\Client\obj\x86\Debug\Client.frmErrorLog.resources
+E:\mayank\Client\obj\x86\Debug\Client.frmGenOrderBook.resources
+E:\mayank\Client\obj\x86\Debug\Client.frmLogin.resources
+E:\mayank\Client\obj\x86\Debug\Client.frmMktWatch.resources
+E:\mayank\Client\obj\x86\Debug\Client.frmNetBook.resources
+E:\mayank\Client\obj\x86\Debug\Client.FrmOrderEntry.resources
+E:\mayank\Client\obj\x86\Debug\Client.frmProfile.resources
+E:\mayank\Client\obj\x86\Debug\Client.frmSplash.resources
+E:\mayank\Client\obj\x86\Debug\Client.frmTradeBook.resources
+E:\mayank\Client\obj\x86\Debug\Client.MDIParent1.resources
+E:\mayank\Client\obj\x86\Debug\Client.ProfileTrade_Book.resources
+E:\mayank\Client\obj\x86\Debug\Client.Profile_forOrderBook.resources
+E:\mayank\Client\obj\x86\Debug\Client.Properties.Resources.resources
+E:\mayank\Client\obj\x86\Debug\Client.Re_Login.resources
+E:\mayank\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+E:\mayank\Client\obj\x86\Debug\Client.exe
+E:\mayank\Client\obj\x86\Debug\Client.pdb
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\bin\Debug\Client.exe.config
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\bin\Debug\Client.exe
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\bin\Debug\Client.pdb
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Debug\Client.AddSpreadToken.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Debug\Client.AddToken.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Debug\Client.All_DataGRD.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Debug\Client.Fo_Fo_mktwatch.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Debug\Client.fofospreadwatch.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Debug\Client.frmDiff.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Debug\Client.frmLog.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Debug\Client.frmErrorLog.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Debug\Client.frmGenOrderBook.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Debug\Client.frmLogin.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Debug\Client.frmMktWatch.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Debug\Client.frmNetBook.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Debug\Client.FrmOrderEntry.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Debug\Client.frmProfile.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Debug\Client.frmSplash.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Debug\Client.frmTradeBook.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Debug\Client.MDIParent1.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Debug\Client.ProfileTrade_Book.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Debug\Client.Profile_forOrderBook.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Debug\Client.Re_Login.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Debug\Client.exe
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Debug\Client.pdb
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+D:\mayank client\Client\bin\Debug\Client.exe.config
+D:\mayank client\Client\bin\Debug\Client.exe
+D:\mayank client\Client\bin\Debug\Client.pdb
+D:\mayank client\Client\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\mayank client\Client\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+D:\mayank client\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+D:\mayank client\Client\obj\x86\Debug\Client.AddSpreadToken.resources
+D:\mayank client\Client\obj\x86\Debug\Client.AddToken.resources
+D:\mayank client\Client\obj\x86\Debug\Client.All_DataGRD.resources
+D:\mayank client\Client\obj\x86\Debug\Client.Fo_Fo_mktwatch.resources
+D:\mayank client\Client\obj\x86\Debug\Client.fofospreadwatch.resources
+D:\mayank client\Client\obj\x86\Debug\Client.frmDiff.resources
+D:\mayank client\Client\obj\x86\Debug\Client.frmLog.resources
+D:\mayank client\Client\obj\x86\Debug\Client.frmErrorLog.resources
+D:\mayank client\Client\obj\x86\Debug\Client.frmGenOrderBook.resources
+D:\mayank client\Client\obj\x86\Debug\Client.frmLogin.resources
+D:\mayank client\Client\obj\x86\Debug\Client.frmMktWatch.resources
+D:\mayank client\Client\obj\x86\Debug\Client.frmNetBook.resources
+D:\mayank client\Client\obj\x86\Debug\Client.FrmOrderEntry.resources
+D:\mayank client\Client\obj\x86\Debug\Client.frmProfile.resources
+D:\mayank client\Client\obj\x86\Debug\Client.frmSplash.resources
+D:\mayank client\Client\obj\x86\Debug\Client.frmTradeBook.resources
+D:\mayank client\Client\obj\x86\Debug\Client.MDIParent1.resources
+D:\mayank client\Client\obj\x86\Debug\Client.ProfileTrade_Book.resources
+D:\mayank client\Client\obj\x86\Debug\Client.Profile_forOrderBook.resources
+D:\mayank client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\mayank client\Client\obj\x86\Debug\Client.Re_Login.resources
+D:\mayank client\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+D:\mayank client\Client\obj\x86\Debug\Client.exe
+D:\mayank client\Client\obj\x86\Debug\Client.pdb
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\obj\x86\Debug\Client.AddSpreadToken.resources
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\obj\x86\Debug\Client.AddToken.resources
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\obj\x86\Debug\Client.All_DataGRD.resources
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\obj\x86\Debug\Client.Fo_Fo_mktwatch.resources
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\obj\x86\Debug\Client.fofospreadwatch.resources
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\obj\x86\Debug\Client.frmDiff.resources
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\obj\x86\Debug\Client.frmLog.resources
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\obj\x86\Debug\Client.frmErrorLog.resources
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\obj\x86\Debug\Client.frmGenOrderBook.resources
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\obj\x86\Debug\Client.frmLogin.resources
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\obj\x86\Debug\Client.frmMktWatch.resources
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\obj\x86\Debug\Client.frmNetBook.resources
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\obj\x86\Debug\Client.FrmOrderEntry.resources
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\obj\x86\Debug\Client.frmProfile.resources
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\obj\x86\Debug\Client.frmSplash.resources
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\obj\x86\Debug\Client.frmTradeBook.resources
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\obj\x86\Debug\Client.MDIParent1.resources
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\obj\x86\Debug\Client.ProfileTrade_Book.resources
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\obj\x86\Debug\Client.Profile_forOrderBook.resources
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\obj\x86\Debug\Client.Re_Login.resources
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\bin\Debug\Client.exe.config
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\bin\Debug\Client.exe
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\bin\Debug\Client.pdb
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\obj\x86\Debug\Client.exe
+D:\shailendra sir office client update stable code\Test Ver 1.0\Client\obj\x86\Debug\Client.pdb
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\obj\x86\Debug\Client.AddSpreadToken.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\obj\x86\Debug\Client.AddToken.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\obj\x86\Debug\Client.All_DataGRD.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\obj\x86\Debug\Client.Fo_Fo_mktwatch.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\obj\x86\Debug\Client.fofospreadwatch.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\obj\x86\Debug\Client.frmDiff.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\obj\x86\Debug\Client.frmLog.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\obj\x86\Debug\Client.frmErrorLog.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\obj\x86\Debug\Client.frmGenOrderBook.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\obj\x86\Debug\Client.frmLogin.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\obj\x86\Debug\Client.frmMktWatch.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\obj\x86\Debug\Client.frmNetBook.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\obj\x86\Debug\Client.FrmOrderEntry.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\obj\x86\Debug\Client.frmProfile.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\obj\x86\Debug\Client.frmSplash.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\obj\x86\Debug\Client.frmTradeBook.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\obj\x86\Debug\Client.MDIParent1.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\obj\x86\Debug\Client.ProfileTrade_Book.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\obj\x86\Debug\Client.Profile_forOrderBook.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\obj\x86\Debug\Client.Re_Login.resources
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\bin\Debug\Client.exe.config
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\bin\Debug\Client.exe
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\bin\Debug\Client.pdb
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\obj\x86\Debug\Client.exe
+D:\shailendra sir office client update stable code\ver 1.1.0.0\Arif\Client\obj\x86\Debug\Client.pdb
+D:\shailendra sir office client update stable code\version unknown\Client\bin\Debug\Client.exe.config
+D:\shailendra sir office client update stable code\version unknown\Client\bin\Debug\Client.exe
+D:\shailendra sir office client update stable code\version unknown\Client\bin\Debug\Client.pdb
+D:\shailendra sir office client update stable code\version unknown\Client\bin\Debug\clrzmq.dll
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.AddSpreadToken.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.AddToken.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.All_DataGRD.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.Fo_Fo_mktwatch.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.fofospreadwatch.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.frmDiff.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.frmLog.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.frmErrorLog.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.frmGenOrderBook.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.frmLogin.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.frmMktWatch.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.frmNetBook.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.FrmOrderEntry.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.frmProfile.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.frmSplash.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.frmTradeBook.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.MDIParent1.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.OrderBook.FrmOrderBook.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.ProfileTrade_Book.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.Profile_forOrderBook.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.Re_Login.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.Spread.FrmSpdOrderBook.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.Spread.frmSpreadMktWatch.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.frmSpreadOrdEntry.resources
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.exe
+D:\shailendra sir office client update stable code\version unknown\Client\obj\x86\Debug\Client.pdb
+E:\share e\arifkhan\backup_of_242\Client\bin\Debug\Client.exe.config
+E:\share e\arifkhan\backup_of_242\Client\bin\Debug\Client.exe
+E:\share e\arifkhan\backup_of_242\Client\bin\Debug\Client.pdb
+E:\share e\arifkhan\backup_of_242\Client\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\share e\arifkhan\backup_of_242\Client\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.AddSpreadToken.resources
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.AddToken.resources
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.All_DataGRD.resources
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.Fo_Fo_mktwatch.resources
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.fofospreadwatch.resources
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.frmDiff.resources
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.frmLog.resources
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.frmErrorLog.resources
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.frmGenOrderBook.resources
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.frmLogin.resources
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.frmMktWatch.resources
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.frmNetBook.resources
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.FrmOrderEntry.resources
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.frmProfile.resources
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.frmSplash.resources
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.frmTradeBook.resources
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.MDIParent1.resources
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.OrderBook.FrmOrderBook.resources
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.ProfileTrade_Book.resources
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.Profile_forOrderBook.resources
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.Properties.Resources.resources
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.Re_Login.resources
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.Spread.FrmSpdOrderBook.resources
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.Spread.frmSpreadMktWatch.resources
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.frmSpreadOrdEntry.resources
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.exe
+E:\share e\arifkhan\backup_of_242\Client\obj\x86\Debug\Client.pdb
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\bin\Debug\Client.exe.config
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\bin\Debug\Client.exe
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\bin\Debug\Client.pdb
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.AddSpreadToken.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.AddToken.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.All_DataGRD.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.Child_Index.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.Fo_Fo_mktwatch.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.fofospreadwatch.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.frmDiff.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.frmLog.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.frmErrorLog.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.frmGenOrderBook.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.frmLogin.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.frmMarketDepth.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.Spread.FrmMarketPicture.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.frmMktWatch.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.frmNetBook.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.FrmOrderEntry.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.frmProfile.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.frmSplash.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.frmTradeBook.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.MDIParent1.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.OrderBook.FrmOrderBook.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.ProfileTrade_Book.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.Profile_forOrderBook.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.Properties.Resources.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.Re_Login.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.Spot.frmSpot.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.Spread.FrmSpdOrderBook.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.Spread.frmSpreadMktWatch.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.frmSpreadOrdEntry.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.Trade_Tracker.resources
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.exe
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.pdb
+E:\SAN_SOFT\Nitin_Sir_Client_FO_FO\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Gold\Documents\Divya\Client\bin\Debug\Client.exe.config
+C:\Users\Gold\Documents\Divya\Client\bin\Debug\Client.exe
+C:\Users\Gold\Documents\Divya\Client\bin\Debug\Client.pdb
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.AddSpreadToken.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.AddToken.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.All_DataGRD.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.Child_Index.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.Fo_Fo_mktwatch.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.fofospreadwatch.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.frmDiff.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.frmLog.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.frmErrorLog.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.frmGenOrderBook.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.frmLogin.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.frmMarketDepth.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.Spread.FrmMarketPicture.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.frmMktWatch.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.frmNetBook.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.FrmOrderEntry.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.frmProfile.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.frmSplash.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.frmTradeBook.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.MDIParent1.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.OrderBook.FrmOrderBook.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.ProfileTrade_Book.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.Profile_forOrderBook.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.Re_Login.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.Spot.frmSpot.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.Spread.FrmSpdOrderBook.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.Spread.frmSpreadMktWatch.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.frmSpreadOrdEntry.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.Trade_Tracker.resources
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.exe
+C:\Users\Gold\Documents\Divya\Client\obj\x86\Debug\Client.pdb
+E:\Sujit\6_nov_15\Client\bin\Debug\Client.exe.config
+E:\Sujit\6_nov_15\Client\bin\Debug\Client.exe
+E:\Sujit\6_nov_15\Client\bin\Debug\Client.pdb
+E:\Sujit\6_nov_15\Client\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\Sujit\6_nov_15\Client\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.AddSpreadToken.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.AddToken.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.All_DataGRD.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.Child_Index.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.Fo_Fo_mktwatch.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.fofospreadwatch.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.frmDiff.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.frmLog.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.frmErrorLog.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.frmGenOrderBook.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.frmLogin.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.frmMarketDepth.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.Spread.FrmMarketPicture.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.frmMktWatch.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.frmNetBook.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.FrmOrderEntry.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.frmProfile.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.frmSplash.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.frmTradeBook.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.MDIParent1.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.OrderBook.FrmOrderBook.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.ProfileTrade_Book.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.Profile_forOrderBook.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.Properties.Resources.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.Re_Login.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.Spot.frmSpot.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.Spread.FrmSpdOrderBook.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.Spread.frmSpreadMktWatch.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.frmSpreadOrdEntry.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.Trade_Tracker.resources
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.exe
+E:\Sujit\6_nov_15\Client\obj\x86\Debug\Client.pdb
+E:\NKB\Testing_client_for_c_++\Client\bin\Debug\Client.exe.config
+E:\NKB\Testing_client_for_c_++\Client\bin\Debug\Client.exe
+E:\NKB\Testing_client_for_c_++\Client\bin\Debug\Client.pdb
+E:\NKB\Testing_client_for_c_++\Client\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.AddSpreadToken.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.AddToken.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.All_DataGRD.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.Child_Index.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.Fo_Fo_mktwatch.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.fofospreadwatch.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.frmDiff.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.frmLog.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.frmErrorLog.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.frmGenOrderBook.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.frmLogin.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.frmMarketDepth.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.Spread.FrmMarketPicture.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.frmMktWatch.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.frmNetBook.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.FrmOrderEntry.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.frmProfile.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.frmSplash.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.frmTradeBook.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.MDIParent1.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.OrderBook.FrmOrderBook.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.ProfileTrade_Book.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.Profile_forOrderBook.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.Properties.Resources.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.Re_Login.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.Spot.frmSpot.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.Spread.FrmSpdOrderBook.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.Spread.frmSpreadMktWatch.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.frmSpreadOrdEntry.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.Trade_Tracker.resources
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.exe
+E:\NKB\Testing_client_for_c_++\Client\obj\x86\Debug\Client.pdb
+E:\Sujit\Client\bin\Debug\Client.exe.config
+E:\Sujit\Client\bin\Debug\Client.exe
+E:\Sujit\Client\bin\Debug\Client.pdb
+E:\Sujit\Client\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\Sujit\Client\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+E:\Sujit\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Sujit\Client\obj\x86\Debug\Client.AddSpreadToken.resources
+E:\Sujit\Client\obj\x86\Debug\Client.AddToken.resources
+E:\Sujit\Client\obj\x86\Debug\Client.All_DataGRD.resources
+E:\Sujit\Client\obj\x86\Debug\Client.Child_Index.resources
+E:\Sujit\Client\obj\x86\Debug\Client.Fo_Fo_mktwatch.resources
+E:\Sujit\Client\obj\x86\Debug\Client.fofospreadwatch.resources
+E:\Sujit\Client\obj\x86\Debug\Client.frmDiff.resources
+E:\Sujit\Client\obj\x86\Debug\Client.frmLog.resources
+E:\Sujit\Client\obj\x86\Debug\Client.frmErrorLog.resources
+E:\Sujit\Client\obj\x86\Debug\Client.frmGenOrderBook.resources
+E:\Sujit\Client\obj\x86\Debug\Client.frmLogin.resources
+E:\Sujit\Client\obj\x86\Debug\Client.frmMarketDepth.resources
+E:\Sujit\Client\obj\x86\Debug\Client.Spread.FrmMarketPicture.resources
+E:\Sujit\Client\obj\x86\Debug\Client.frmMktWatch.resources
+E:\Sujit\Client\obj\x86\Debug\Client.frmNetBook.resources
+E:\Sujit\Client\obj\x86\Debug\Client.FrmOrderEntry.resources
+E:\Sujit\Client\obj\x86\Debug\Client.frmProfile.resources
+E:\Sujit\Client\obj\x86\Debug\Client.frmSplash.resources
+E:\Sujit\Client\obj\x86\Debug\Client.frmTradeBook.resources
+E:\Sujit\Client\obj\x86\Debug\Client.MDIParent1.resources
+E:\Sujit\Client\obj\x86\Debug\Client.OrderBook.FrmOrderBook.resources
+E:\Sujit\Client\obj\x86\Debug\Client.ProfileTrade_Book.resources
+E:\Sujit\Client\obj\x86\Debug\Client.Profile_forOrderBook.resources
+E:\Sujit\Client\obj\x86\Debug\Client.Properties.Resources.resources
+E:\Sujit\Client\obj\x86\Debug\Client.Re_Login.resources
+E:\Sujit\Client\obj\x86\Debug\Client.Spot.frmSpot.resources
+E:\Sujit\Client\obj\x86\Debug\Client.Spread.FrmSpdOrderBook.resources
+E:\Sujit\Client\obj\x86\Debug\Client.Spread.frmSpreadMktWatch.resources
+E:\Sujit\Client\obj\x86\Debug\Client.frmSpreadOrdEntry.resources
+E:\Sujit\Client\obj\x86\Debug\Client.Trade_Tracker.resources
+E:\Sujit\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+E:\Sujit\Client\obj\x86\Debug\Client.exe
+E:\Sujit\Client\obj\x86\Debug\Client.pdb

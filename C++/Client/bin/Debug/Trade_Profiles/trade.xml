@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Columns>
+  <Column Input="RejectReason" />
+  <Column Input="OptionType" />
+  <Column Input="StrikePrice" />
+  <Column Input="FillPrice" />
+  <Column Input="Volume" />
+  <Column Input="AccountNumber" />
+  <Column Input="BookType" />
+  <Column Input="BranchId" />
+  <Column Input="BrokerId" />
+  <Column Input="CloseoutFlag" />
+  <Column Input="ExpiryDate" />
+  <Column Input="DisclosedVolumeRemaining" />
+  <Column Input="EntryDateTime" />
+  <Column Input="filler" />
+  <Column Input="GoodTillDate" />
+  <Column Input="LastModified" />
+  <Column Input="Modified_CancelledBy" />
+  <Column Input="Open_Close" />
+  <Column Input="Pro_ClientIndicator" />
+  <Column Input="ReasonCode" />
+  <Column Input="Settlor" />
+  <Column Input="TimeStamp2" />
+  <Column Input="TotalVolumeRemaining" />
+  <Column Input="UserId" />
+  <Column Input="Unique_id" />
+  <Column Input="TraderId" />
+  <Column Input="DisclosedVolume" />
+  <Column Input="FullName" />
+  <Column Input="TokenNo" />
+  <Column Input="OrderNumber" />
+  <Column Input="nnffield" />
+  <Column Input="TimeStamp1" />
+</Columns>
